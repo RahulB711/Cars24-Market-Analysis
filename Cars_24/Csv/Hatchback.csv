@@ -1,0 +1,4030 @@
+,Car_Model,Configuration,Type,Discounted_Price,Location
+0,2016 Volkswagen Polo,"96,698 KM
+2ND OWNER
+PETROL
+KA-09",GT TSI ATAutomatic,"₹7,08,000
+₹7,38,000",Sonnappanahalli
+1,2015 Maruti Swift,"60,352 KM
+2ND OWNER
+PETROL
+KA-41",LXIManual,"₹4,29,000
+₹4,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+2,2010 Maruti Swift,"1,34,850 KM
+2ND OWNER
+PETROL
+KA-51",VXIManual,"₹3,14,000
+₹3,40,000","Horamavu Agara Road, Bengaluru"
+3,2020 Hyundai Elite i20,"49,087 KM
+1ST OWNER
+PETROL
+KA-50",SPORTZ PLUS 1.2Manual,"₹7,10,000
+₹7,76,000","Horamavu Agara Road, Bengaluru"
+4,2017 Maruti Celerio,"57,986 KM
+2ND OWNER
+PETROL
+KA-06",VXI (O)Manual,"₹4,06,000
+₹4,41,000","Bellahalli, Bengaluru"
+5,2015 Hyundai Elite i20,"1,23,976 KM
+1ST OWNER
+DIESEL
+KA-41",ASTA 1.4 CRDIManual,"₹5,73,000
+₹6,01,000","Horamavu Agara Road, Bengaluru"
+6,2013 Volkswagen Polo,"1,09,232 KM
+2ND OWNER
+DIESEL
+KA-51",GT TDIManual,"₹4,79,000
+₹4,91,000","Horamavu Agara Road, Bengaluru"
+7,2013 Hyundai i10,"67,048 KM
+3RD OWNER
+PETROL
+KA-05",SPORTZ 1.2 ATAutomatic,"₹3,44,000
+₹3,61,000","Hosur Road, Singasandra, Bengaluru"
+8,2021 Tata Tiago,"14,992 KM
+1ST OWNER
+PETROL
+KA-09",XT PETROLManual,"₹6,32,000","Bellahalli, Bengaluru"
+9,2013 Hyundai i20,"31,502 KM
+1ST OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹4,93,000
+₹5,39,000","Hosur Road, Singasandra, Bengaluru"
+10,2017 Maruti IGNIS,"65,909 KM
+1ST OWNER
+PETROL
+KA-50",ZETA 1.2 AMTAutomatic,"₹5,90,000
+₹6,46,000","Bellahalli, Bengaluru"
+11,2019 Hyundai NEW SANTRO,"25,997 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ AMTAutomatic,"₹5,57,000
+₹5,90,000","GT World Mall, Bengaluru"
+12,2012 Hyundai Eon,"63,020 KM
+2ND OWNER
+PETROL
+KA-01",ERA +Manual,"₹2,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+13,2020 Maruti Alto,"26,085 KM
+2ND OWNER
+PETROL
+KA-04",VXIManual,"₹4,11,000
+₹4,50,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+14,2013 Hyundai i20,"90,106 KM
+2ND OWNER
+DIESEL
+KA-01",MAGNA (O) 1.4 CRDIManual,"₹3,85,000
+₹4,23,000","Bellahalli, Bengaluru"
+15,2021 Maruti New Wagon-R,"27,658 KM
+1ST OWNER
+PETROL
+KA-09",ZXI 1.2Manual,"₹6,19,000
+₹6,61,000",Sonnappanahalli
+16,2013 Maruti Ritz,"54,782 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹3,78,000
+₹4,30,000","GT World Mall, Bengaluru"
+17,2020 Maruti S PRESSO,"57,644 KM
+2ND OWNER
+PETROL
+KA-20",VXIManual,"₹3,87,000
+₹4,25,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+18,2016 Hyundai Grand i10,"67,771 KM
+2ND OWNER
+PETROL
+KA-05",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,25,000
+₹5,72,000","Bellahalli, Bengaluru"
+19,2020 Renault Kwid,"46,218 KM
+2ND OWNER
+PETROL
+KA-50",CLIMBER 1.0 AMT (O)Automatic,"₹4,98,000
+₹5,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+20,2015 Hyundai i20 Active,"51,659 KM
+2ND OWNER
+DIESEL
+KA-01",1.4 SXManual,"₹6,65,000
+₹6,87,000","Bellahalli, Bengaluru"
+21,2010 Maruti Wagon R 1.0,"80,330 KM
+2ND OWNER
+PETROL
+UP-16",LXIManual,"₹2,22,000
+₹2,48,000","Horamavu Agara Road, Bengaluru"
+22,2016 Maruti Alto K10,"14,039 KM
+1ST OWNER
+PETROL
+KA-01",VXI (O) AMTAutomatic,"₹4,36,000","Horamavu Agara Road, Bengaluru"
+23,2017 Hyundai Elite i20,"60,228 KM
+1ST OWNER
+DIESEL
+KA-03",ASTA 1.4 CRDI (O)Manual,"₹7,24,000
+₹7,73,000","Hosur Road, Singasandra, Bengaluru"
+24,2016 Maruti Celerio,"71,295 KM
+1ST OWNER
+PETROL
+KA-03",VXI (O)Manual,"₹4,36,600
+₹4,56,000","Horamavu Agara Road, Bengaluru"
+25,2020 Maruti S PRESSO,"28,297 KM
+1ST OWNER
+PETROL
+KA-03",VXI (O) AMTAutomatic,"₹4,82,000
+₹5,41,000","Bellahalli, Bengaluru"
+26,2014 Hyundai i20,"77,526 KM
+1ST OWNER
+PETROL
+KA-04",ASTA 1.2Manual,"₹5,02,000
+₹5,35,000","Bellahalli, Bengaluru"
+27,2017 Maruti Baleno,"56,997 KM
+1ST OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹6,91,000
+₹7,12,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+28,2014 Hyundai Grand i10,"82,149 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2 KAPPA VTVTManual,"₹3,93,000
+₹4,22,000","Bellahalli, Bengaluru"
+29,2018 Tata Tiago,"49,325 KM
+1ST OWNER
+PETROL
+KA-04",XZ PETROLManual,"₹5,21,000
+₹5,72,000","Bellahalli, Bengaluru"
+30,2015 Hyundai Grand i10,"51,618 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2 KAPPA VTVTManual,"₹4,60,000
+₹5,34,000","Bellahalli, Bengaluru"
+31,2022 Maruti S PRESSO,"8,212 KM
+1ST OWNER
+PETROL
+KA-19",VXI+Manual,"₹5,60,000
+₹6,10,000","Bellahalli, Bengaluru"
+32,2011 Maruti Alto K10,"58,883 KM
+3RD OWNER
+PETROL
+KA-05",VXIManual,"₹2,21,000
+₹2,32,000","GT World Mall, Bengaluru"
+33,2019 Hyundai Grand i10,"55,168 KM
+1ST OWNER
+PETROL
+KA-14",SPORTZ 1.2 KAPPA VTVTManual,"₹5,72,000
+₹6,32,000","Bellahalli, Bengaluru"
+34,2012 Maruti Swift,"58,556 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹4,84,000
+₹5,03,000","Bellahalli, Bengaluru"
+35,2018 Tata Tiago,"36,692 KM
+2ND OWNER
+PETROL
+KA-41",XZ PETROLManual,"₹4,86,000
+₹5,26,000",Sonnappanahalli
+36,2016 Hyundai Grand i10,"49,408 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA VTVTManual,"₹4,82,000
+₹5,24,000","Hosur Road, Singasandra, Bengaluru"
+37,2016 Renault Kwid,"53,574 KM
+2ND OWNER
+PETROL
+KA-16",RXT 0.8 (O)Manual,"₹3,18,000
+₹3,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+38,2016 Hyundai i10,"28,023 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA 1.1Manual,"₹4,00,000
+₹4,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+39,2018 Hyundai Grand i10,"28,012 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ AT 1.2 KAPPA VTVTAutomatic,"₹6,38,000
+₹6,78,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+40,2017 Tata Tiago,"69,734 KM
+1ST OWNER
+PETROL
+KA-19",XT PETROLManual,"₹4,35,000
+₹4,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+41,2017 Datsun Redi Go,"46,031 KM
+1ST OWNER
+PETROL
+KA-05",T(O) 1.0Manual,"₹2,78,000
+₹3,35,000","Hosur Road, Singasandra, Bengaluru"
+42,2018 Maruti Alto K10,"89,919 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹2,96,000
+₹3,46,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+43,2014 Maruti Wagon R 1.0,"92,739 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹3,02,000
+₹3,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+44,2016 Hyundai Grand i10,"29,236 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹5,00,000
+₹5,44,000","Bellahalli, Bengaluru"
+45,2019 Hyundai Elite i20,"30,984 KM
+1ST OWNER
+PETROL
+KA-05",ASTA 1.2 (O)Manual,"₹7,62,000
+₹8,23,000","Hosur Road, Singasandra, Bengaluru"
+46,2015 Hyundai Grand i10,"45,463 KM
+1ST OWNER
+PETROL
+KA-05",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹5,55,000
+₹5,92,000","Bellahalli, Bengaluru"
+47,2018 Hyundai Elite i20,"72,131 KM
+1ST OWNER
+DIESEL
+KA-04",ASTA 1.4 CRDIManual,"₹7,05,000
+₹7,94,000","Horamavu Agara Road, Bengaluru"
+48,2011 Maruti Ritz,"1,24,712 KM
+1ST OWNER
+DIESEL
+KA-53",VDIManual,"₹3,43,400
+₹3,98,000","Bellahalli, Bengaluru"
+49,2018 Renault Kwid,"37,418 KM
+2ND OWNER
+PETROL
+KA-53",CLIMBER 1.0Manual,"₹3,80,000
+₹4,02,000",Sonnappanahalli
+50,2017 Hyundai Elite i20,"41,003 KM
+1ST OWNER
+PETROL
+KA-02",ASTA 1.2Manual,"₹6,41,000
+₹7,62,000","Bellahalli, Bengaluru"
+51,2017 Hyundai Elite i20,"63,072 KM
+3RD OWNER
+PETROL
+KA-51",SPORTZ 1.2Manual,"₹5,79,000
+₹6,34,000","Bellahalli, Bengaluru"
+52,2019 Maruti New Wagon-R,"28,454 KM
+2ND OWNER
+PETROL
+KA-65",VXI 1.0Manual,"₹5,01,000
+₹5,45,000","Bellahalli, Bengaluru"
+53,2021 Maruti Alto,"22,112 KM
+1ST OWNER
+PETROL
+KA-07",VXIManual,"₹3,93,000
+₹4,59,000","Bellahalli, Bengaluru"
+54,2015 Honda Brio,"76,911 KM
+2ND OWNER
+PETROL
+KA-02",VX MTManual,"₹3,45,000
+₹4,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+55,2014 Hyundai i20,"39,078 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2Manual,"₹4,88,000
+₹5,50,000","Bellahalli, Bengaluru"
+56,2021 Renault Kiger,"12,233 KM
+1ST OWNER
+PETROL
+KA-04",RXZ 1.0 MTManual,"₹7,70,000
+₹9,03,000","Hosur Road, Singasandra, Bengaluru"
+57,2016 Honda Brio,"29,457 KM
+2ND OWNER
+PETROL
+KA-53",S MTManual,"₹4,33,000
+₹4,95,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+58,2018 Tata Tiago,"38,272 KM
+2ND OWNER
+PETROL
+KA-51",XZ PETROLManual,"₹4,73,000
+₹5,29,000","Bellahalli, Bengaluru"
+59,2016 Hyundai Elite i20,"84,407 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2 (O)Manual,"₹6,03,000
+₹6,70,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+60,2021 Hyundai NEW I20,"17,929 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA 1.2 MTManual,"₹7,11,000
+₹7,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+61,2015 Hyundai Grand i10,"33,499 KM
+3RD OWNER
+PETROL
+KA-04",SPORTZ 1.2 KAPPA VTVTManual,"₹4,11,000
+₹4,55,000","GT World Mall, Bengaluru"
+62,2016 Hyundai i10,"98,602 KM
+2ND OWNER
+PETROL
+KA-64",SPORTZ 1.1Manual,"₹3,49,000
+₹3,76,000","GT World Mall, Bengaluru"
+63,2018 Datsun Redi Go,"30,685 KM
+2ND OWNER
+PETROL
+KA-51",SManual,"₹3,03,000
+₹3,36,000","Horamavu Agara Road, Bengaluru"
+64,2018 Hyundai Elite i20,"36,043 KM
+2ND OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹6,71,000
+₹7,62,000","Hosur Road, Singasandra, Bengaluru"
+65,2019 Hyundai Elite i20,"65,944 KM
+2ND OWNER
+PETROL
+KA-20",SPORTZ PLUS 1.2Manual,"₹6,25,000
+₹6,71,000","Bellahalli, Bengaluru"
+66,2014 Maruti Swift,"1,00,015 KM
+1ST OWNER
+DIESEL
+KA-25",VDIManual,"₹4,97,000
+₹5,21,000","Bellahalli, Bengaluru"
+67,2013 Hyundai i20,"21,644 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹4,62,000
+₹4,93,000","Bellahalli, Bengaluru"
+68,2019 Hyundai Elite i20,"30,407 KM
+1ST OWNER
+PETROL
+KA-05",ASTA (O) CVTAutomatic,"₹7,89,000
+₹8,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+69,2017 Hyundai Elite i20,"29,591 KM
+1ST OWNER
+PETROL
+KA-41",ASTA 1.2Manual,"₹6,74,000
+₹7,59,000","GT World Mall, Bengaluru"
+70,2016 Maruti Baleno,"63,328 KM
+1ST OWNER
+PETROL
+KA-01",DELTA CVT PETROL 1.2Automatic,"₹5,68,000
+₹6,64,000","Bellahalli, Bengaluru"
+71,2016 Maruti Wagon R 1.0,"80,190 KM
+1ST OWNER
+PETROL
+KA-53",VXI OPTManual,"₹4,06,000
+₹4,65,000","Hosur Road, Singasandra, Bengaluru"
+72,2021 Renault Kwid,"41,968 KM
+1ST OWNER
+PETROL
+KA-50",1.0 CLIMBER OPTManual,"₹4,74,000
+₹5,30,000","Bellahalli, Bengaluru"
+73,2017 Maruti Celerio,"30,848 KM
+2ND OWNER
+PETROL
+KA-01",ZXI AMTAutomatic,"₹4,86,000
+₹5,41,000","Bellahalli, Bengaluru"
+74,2016 Hyundai i20 Active,"68,672 KM
+2ND OWNER
+PETROL
+KA-53",1.2 SManual,"₹5,77,000
+₹6,54,000","Bellahalli, Bengaluru"
+75,2010 Honda Jazz,"90,448 KM
+2ND OWNER
+PETROL
+KA-51",1.2 BASE I VTECManual,"₹3,13,000
+₹3,57,000","Bellahalli, Bengaluru"
+76,2017 Honda Brio,"39,220 KM
+1ST OWNER
+PETROL
+KA-03",VX ATAutomatic,"₹5,37,000
+₹6,20,000","GT World Mall, Bengaluru"
+77,2016 Hyundai Eon,"30,906 KM
+3RD OWNER
+PETROL
+KA-53",MAGNA +Manual,"₹3,10,000
+₹3,39,000","Bellahalli, Bengaluru"
+78,2016 Hyundai Eon,"8,187 KM
+2ND OWNER
+PETROL
+KA-41",MAGNA + AIRBAGManual,"₹3,52,000
+₹3,70,000","Bellahalli, Bengaluru"
+79,2017 Maruti Wagon R 1.0,"15,993 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,43,000
+₹4,63,000",Sonnappanahalli
+80,2017 Hyundai Eon,"79,683 KM
+1ST OWNER
+PETROL
+KA-19",ERA +Manual,"₹3,08,000
+₹3,33,000","Bellahalli, Bengaluru"
+81,2015 Hyundai i10,"80,427 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ 1.1Manual,"₹3,38,000
+₹3,65,000","Horamavu Agara Road, Bengaluru"
+82,2017 Renault Kwid,"16,808 KM
+1ST OWNER
+PETROL
+KA-51",RXT 0.8Manual,"₹3,86,000","GT World Mall, Bengaluru"
+83,2017 Maruti Wagon R 1.0,"14,524 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹4,24,000
+₹4,61,000","Bellahalli, Bengaluru"
+84,2021 Renault Kwid,"12,041 KM
+1ST OWNER
+PETROL
+KA-05",RXLManual,"₹4,49,000
+₹4,70,000",Sonnappanahalli
+85,2014 Hyundai Grand i10,"41,120 KM
+1ST OWNER
+PETROL
+UP-16",SPORTZ 1.2 KAPPA VTVTManual,"₹4,20,000
+₹4,73,000","Bellahalli, Bengaluru"
+86,2016 Hyundai Grand i10,"26,923 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2 KAPPA VTVTManual,"₹5,00,000
+₹5,71,000","Horamavu Agara Road, Bengaluru"
+87,2021 Hyundai GRAND I10 NIOS,"7,266 KM
+1ST OWNER
+PETROL
+KA-16",MAGNA 1.2 KAPPA VTVTManual,"₹6,39,000
+₹6,64,000","Bellahalli, Bengaluru"
+88,2016 Hyundai i10,"31,355 KM
+3RD OWNER
+PETROL
+KA-53",SPORTZ 1.1Manual,"₹3,76,000
+₹4,12,000","Bellahalli, Bengaluru"
+89,2014 Hyundai Eon,"29,940 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA +Manual,"₹3,04,000
+₹3,34,000",Sonnappanahalli
+90,2018 Hyundai Elite i20,"70,601 KM
+1ST OWNER
+PETROL
+KA-41",ASTA 1.2 CVTAutomatic,"₹6,59,200
+₹7,70,000","GT World Mall, Bengaluru"
+91,2016 Hyundai Elite i20,"90,213 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹5,62,000
+₹6,49,000","Horamavu Agara Road, Bengaluru"
+92,2010 Maruti Ritz,"73,340 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹3,21,000
+₹3,47,000","Horamavu Agara Road, Bengaluru"
+93,2017 Nissan Micra,"46,468 KM
+3RD OWNER
+PETROL
+KA-01",XV CVTAutomatic,"₹4,38,000
+₹5,31,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+94,2017 Hyundai Elite i20,"97,212 KM
+3RD OWNER
+PETROL
+KA-19",SPORTZ 1.2Manual,"₹5,49,000
+₹6,31,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+95,2021 Maruti Swift,"48,148 KM
+1ST OWNER
+PETROL
+KA-02",ZXI PLUSManual,"₹7,82,000
+₹8,54,000",Sonnappanahalli
+96,2016 Hyundai i10,"35,851 KM
+1ST OWNER
+PETROL
+KA-42",MAGNA 1.1Manual,"₹3,91,000
+₹4,15,000","Bellahalli, Bengaluru"
+97,2020 Hyundai GRAND I10 NIOS,"15,361 KM
+2ND OWNER
+PETROL
+KA-02",ASTA 1.2 KAPPA VTVTManual,"₹7,01,000
+₹7,57,000","Bellahalli, Bengaluru"
+98,2010 Hyundai i10,"75,774 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2Manual,"₹2,75,000
+₹2,88,000","Hosur Road, Singasandra, Bengaluru"
+99,2017 Hyundai Elite i20,"51,181 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹6,31,000
+₹7,29,000","GT World Mall, Bengaluru"
+100,2015 Maruti Wagon R 1.0,"48,394 KM
+1ST OWNER
+PETROL
+KA-55",VXIManual,"₹3,81,000
+₹4,36,000","Bellahalli, Bengaluru"
+101,2012 Maruti A Star,"86,380 KM
+2ND OWNER
+PETROL
+KA-03",VXI (ABS) ATAutomatic,"₹2,99,000
+₹3,30,000","Bellahalli, Bengaluru"
+102,2012 Hyundai i10,"1,05,745 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA 1.2Manual,"₹2,78,000
+₹3,01,000","Bellahalli, Bengaluru"
+103,2017 Hyundai Elite i20,"48,285 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ 1.2Manual,"₹6,58,000
+₹7,06,000","Bellahalli, Bengaluru"
+104,2015 Maruti Swift,"69,216 KM
+2ND OWNER
+PETROL
+KA-53",VXIManual,"₹4,78,000
+₹5,35,000","GT World Mall, Bengaluru"
+105,2015 Maruti Alto 800,"24,320 KM
+3RD OWNER
+PETROL
+KA-05",LXIManual,"₹2,87,000
+₹3,09,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+106,2014 Maruti Swift,"52,568 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,86,000
+₹5,50,000","GT World Mall, Bengaluru"
+107,2017 Hyundai Elite i20,"44,843 KM
+1ST OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹6,46,000
+₹7,54,000","Bellahalli, Bengaluru"
+108,2016 Hyundai Elite i20,"75,268 KM
+1ST OWNER
+PETROL
+KA-20",MAGNA 1.2Manual,"₹5,42,000
+₹6,09,000","Bellahalli, Bengaluru"
+109,2017 Renault Kwid,"10,254 KM
+1ST OWNER
+PETROL
+KA-03",RXT 1.0Manual,"₹3,86,000
+₹4,11,000","Hosur Road, Singasandra, Bengaluru"
+110,2018 Hyundai Elite i20,"29,246 KM
+1ST OWNER
+PETROL
+KA-53",MAGNA EXECUTIVE CVTAutomatic,"₹7,06,000
+₹7,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+111,2017 Maruti Baleno,"52,659 KM
+1ST OWNER
+PETROL
+KA-03",ZETA CVT PETROL 1.2Automatic,"₹6,37,000
+₹6,96,000","GT World Mall, Bengaluru"
+112,2022 Maruti Swift,"8,857 KM
+2ND OWNER
+PETROL
+KA-19",VXIManual,"₹7,19,000
+₹7,77,000","GT World Mall, Bengaluru"
+113,2020 Maruti Celerio,"27,528 KM
+1ST OWNER
+PETROL
+KA-11",ZXIManual,"₹5,23,000
+₹5,49,000","Bellahalli, Bengaluru"
+114,2021 Renault Kwid,"14,365 KM
+2ND OWNER
+PETROL
+KA-59",NEOTECH RXL 1.0 AMTAutomatic,"₹5,09,000
+₹5,24,000","GT World Mall, Bengaluru"
+115,2013 Honda Brio,"66,488 KM
+3RD OWNER
+PETROL
+KA-01",V MTManual,"₹3,02,000
+₹3,13,000","Horamavu Agara Road, Bengaluru"
+116,2018 Hyundai Grand i10,"17,026 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ AT 1.2 KAPPA VTVTAutomatic,"₹6,16,000
+₹6,55,000","Hosur Road, Singasandra, Bengaluru"
+117,2017 Honda Brio,"42,509 KM
+2ND OWNER
+PETROL
+KA-05",VX ATAutomatic,"₹5,24,000
+₹6,03,000","Hosur Road, Singasandra, Bengaluru"
+118,2019 Hyundai GRAND I10 NIOS,"23,415 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ AMT 1.2 KAPPA VTVTAutomatic,"₹7,01,000
+₹7,66,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+119,2019 Maruti Baleno,"81,881 KM
+1ST OWNER
+PETROL
+KA-13",ALPHA CVT PETROL 1.2Automatic,"₹6,89,000
+₹7,53,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+120,2020 Tata ALTROZ,"58,107 KM
+1ST OWNER
+DIESEL
+KA-25",XZ DIESELManual,"₹7,86,000
+₹8,58,000","Bellahalli, Bengaluru"
+121,2017 Hyundai i20 Active,"32,345 KM
+2ND OWNER
+PETROL
+KA-53",1.2 SXManual,"₹6,59,000
+₹7,43,000","Hosur Road, Singasandra, Bengaluru"
+122,2013 Maruti Swift,"57,779 KM
+1ST OWNER
+PETROL
+KA-41",LXIManual,"₹4,29,000
+₹4,65,000","Hosur Road, Singasandra, Bengaluru"
+123,2021 Toyota Glanza,"13,877 KM
+1ST OWNER
+PETROL
+KA-03",GManual,"₹7,87,000
+₹8,25,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+124,2019 Maruti IGNIS,"11,483 KM
+2ND OWNER
+PETROL
+KA-05",ALPHA 1.2 AMTAutomatic,"₹6,57,000
+₹7,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+125,2020 Maruti IGNIS,"56,218 KM
+1ST OWNER
+PETROL
+KA-51",ZETA 1.2Manual,"₹5,86,000
+₹6,53,000","Bellahalli, Bengaluru"
+126,2016 Hyundai Grand i10,"65,532 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,06,000
+₹4,65,000","Bellahalli, Bengaluru"
+127,2015 Hyundai Grand i10,"25,452 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ 1.2 KAPPA VTVTManual,"₹4,75,000
+₹5,86,000","Bellahalli, Bengaluru"
+128,2015 Maruti Alto 800,"62,554 KM
+1ST OWNER
+PETROL
+KA-50",LXIManual,"₹2,72,000
+₹3,28,000","Hosur Road, Singasandra, Bengaluru"
+129,2018 Maruti Swift,"29,767 KM
+1ST OWNER
+PETROL
+KA-02",ZXIManual,"₹6,80,000
+₹7,18,000","GT World Mall, Bengaluru"
+130,2018 Hyundai Grand i10,"24,678 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVT DUAL TONEManual,"₹5,67,000
+₹6,05,000","Bellahalli, Bengaluru"
+131,2015 Maruti Swift,"77,646 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,89,000
+₹5,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+132,2017 Renault Kwid,"24,810 KM
+2ND OWNER
+PETROL
+KA-05",RXL 1.0Manual,"₹3,58,000
+₹3,76,000","Horamavu Agara Road, Bengaluru"
+133,2018 Tata Tiago,"23,006 KM
+1ST OWNER
+PETROL
+KA-03",XZ PETROLManual,"₹5,27,000
+₹5,63,000","Hosur Road, Singasandra, Bengaluru"
+134,2016 Maruti Alto K10,"67,133 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹3,66,000
+₹3,86,000","Horamavu Agara Road, Bengaluru"
+135,2012 Maruti Alto,"1,00,100 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹2,26,000
+₹2,66,000","Horamavu Agara Road, Bengaluru"
+136,2012 Maruti Wagon R 1.0,"75,761 KM
+2ND OWNER
+PETROL
+KA-51",VXIManual,"₹2,91,000
+₹3,14,000","Bellahalli, Bengaluru"
+137,2012 Hyundai i10,"51,584 KM
+3RD OWNER
+PETROL
+KA-03",SPORTZ 1.2 ATAutomatic,"₹3,40,000
+₹3,62,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+138,2015 Maruti Swift,"63,231 KM
+2ND OWNER
+PETROL
+KA-01",VXIManual,"₹4,82,000
+₹5,37,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+139,2016 Hyundai Grand i10,"22,977 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.2 KAPPA VTVTManual,"₹4,84,000
+₹5,49,000","Bellahalli, Bengaluru"
+140,2020 Tata ALTROZ,"40,742 KM
+1ST OWNER
+PETROL
+KA-02",XZ PETROLManual,"₹7,45,000
+₹8,25,000","Hosur Road, Singasandra, Bengaluru"
+141,2017 Maruti Baleno,"41,500 KM
+2ND OWNER
+PETROL
+KA-05",ALPHA CVT PETROL 1.2Automatic,"₹6,72,000
+₹8,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+142,2019 Maruti Celerio,"9,067 KM
+2ND OWNER
+PETROL
+KA-25",VXIManual,"₹4,79,000
+₹5,07,000","Bellahalli, Bengaluru"
+143,2021 Hyundai NEW SANTRO,"41,054 KM
+1ST OWNER
+CNG
+KA-51",SPORTZ EXECUTIVE MT CNGManual,"₹5,66,000
+₹6,38,000","Bellahalli, Bengaluru"
+144,2016 Maruti Alto 800,"44,110 KM
+2ND OWNER
+PETROL
+KA-04",LXIManual,"₹2,95,000
+₹3,24,000","Bellahalli, Bengaluru"
+145,2018 Maruti Swift,"8,506 KM
+2ND OWNER
+PETROL
+KA-09",ZXI PLUS AMTAutomatic,"₹6,62,000
+₹7,00,000","Hosur Road, Singasandra, Bengaluru"
+146,2014 Hyundai i20,"66,491 KM
+2ND OWNER
+PETROL
+KA-03",ASTA 1.2Manual,"₹4,68,000
+₹5,06,000","Horamavu Agara Road, Bengaluru"
+147,2012 Hyundai i10,"31,474 KM
+1ST OWNER
+PETROL
+KA-50",SPORTZ 1.2 ATAutomatic,"₹3,77,000
+₹4,28,000","Hosur Road, Singasandra, Bengaluru"
+148,2016 Honda Jazz,"44,154 KM
+2ND OWNER
+PETROL
+KA-03",1.2L I-VTEC V ATAutomatic,"₹5,48,000
+₹5,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+149,2019 Toyota Glanza,"29,335 KM
+2ND OWNER
+PETROL
+KA-02",V CVTAutomatic,"₹7,86,000
+₹8,40,000","Bellahalli, Bengaluru"
+150,2019 Hyundai GRAND I10 NIOS,"33,786 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2 KAPPA VTVTManual,"₹6,39,000
+₹6,83,000","Bellahalli, Bengaluru"
+151,2018 Hyundai Elite i20,"36,283 KM
+1ST OWNER
+DIESEL
+KA-04",ASTA 1.4 CRDI DUAL TONEManual,"₹8,21,000
+₹9,20,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+152,2016 Hyundai Grand i10,"53,814 KM
+1ST OWNER
+PETROL
+KA-02",ASTA (O) 1.2 KAPPA VTVTManual,"₹4,93,000
+₹5,77,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+153,2014 Hyundai Grand i10,"38,783 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,43,000
+₹4,94,000","Bellahalli, Bengaluru"
+154,2019 Maruti Alto,"3,315 KM
+2ND OWNER
+PETROL
+KA-51",VXIManual,"₹3,80,000
+₹4,26,000","Bellahalli, Bengaluru"
+155,2013 Hyundai i10,"46,280 KM
+2ND OWNER
+PETROL
+KA-02",ERA 1.1Manual,"₹2,99,000
+₹3,11,000","Hosur Road, Singasandra, Bengaluru"
+156,2010 Maruti A Star,"57,664 KM
+1ST OWNER
+PETROL
+KA-02",LXIManual,"₹2,09,000
+₹2,23,000","Bellahalli, Bengaluru"
+157,2018 Hyundai Grand i10,"46,219 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA 1.2 KAPPA VTVTManual,"₹5,36,000
+₹5,64,000","Hosur Road, Singasandra, Bengaluru"
+158,2017 Hyundai Elite i20,"56,672 KM
+3RD OWNER
+PETROL
+KA-03",SPORTZ 1.2Manual,"₹5,96,000
+₹6,62,000","Bellahalli, Bengaluru"
+159,2012 Hyundai i10,"73,583 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ 1.2Manual,"₹3,08,750
+₹3,22,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+160,2021 Maruti IGNIS,"31,530 KM
+1ST OWNER
+PETROL
+KA-63",ALPHA 1.2 K12Manual,"₹6,61,000
+₹7,15,000","Bellahalli, Bengaluru"
+161,2018 Maruti Celerio,"19,557 KM
+2ND OWNER
+PETROL
+KA-03",VXI AMTAutomatic,"₹5,00,000
+₹5,25,000","Hosur Road, Singasandra, Bengaluru"
+162,2020 Hyundai GRAND I10 NIOS,"29,618 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA 1.2 KAPPA VTVTManual,"₹6,05,000
+₹6,45,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+163,2018 Hyundai Grand i10,"7,773 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2 KAPPA VTVTManual,"₹6,25,000
+₹6,78,000","GT World Mall, Bengaluru"
+164,2017 Maruti Swift,"48,201 KM
+1ST OWNER
+PETROL
+KA-03",VXI OManual,"₹5,87,000
+₹6,16,000","Horamavu Agara Road, Bengaluru"
+165,2020 Hyundai NEW I20,"34,579 KM
+1ST OWNER
+DIESEL
+KA-02",ASTA (O) 1.5 CRDI MTManual,"₹10,17,000
+₹11,74,000","Bellahalli, Bengaluru"
+166,2016 Maruti Baleno,"75,140 KM
+1ST OWNER
+PETROL
+KA-03",DELTA PETROL 1.2Manual,"₹6,10,000
+₹6,40,000","Bellahalli, Bengaluru"
+167,2013 Honda Brio,"64,742 KM
+2ND OWNER
+PETROL
+KA-03",S MTManual,"₹3,18,000
+₹3,66,000","Bellahalli, Bengaluru"
+168,2016 Honda Jazz,"85,860 KM
+3RD OWNER
+PETROL
+KA-25",1.2L I-VTEC VManual,"₹4,88,000
+₹5,83,000","Bellahalli, Bengaluru"
+169,2016 Hyundai Grand i10,"63,284 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹4,37,000
+₹5,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+170,2022 Maruti Celerio,"46,679 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹5,70,000
+₹6,11,000","GT World Mall, Bengaluru"
+171,2013 Maruti Wagon R 1.0,"45,198 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹3,44,000
+₹3,96,000","Bellahalli, Bengaluru"
+172,2020 Renault Kwid,"43,285 KM
+3RD OWNER
+PETROL
+KA-16",CLIMBER 1.0 (O)Manual,"₹4,40,000
+₹5,15,000","Horamavu Agara Road, Bengaluru"
+173,2011 Maruti Ritz,"84,623 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹3,11,500
+₹3,43,000","Hosur Road, Singasandra, Bengaluru"
+174,2011 Hyundai i10,"79,363 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ 1.2 ATAutomatic,"₹3,13,000
+₹3,25,000","Hosur Road, Singasandra, Bengaluru"
+175,2014 Hyundai Grand i10,"68,810 KM
+2ND OWNER
+PETROL
+KA-02",MAGNA 1.2 KAPPA VTVTManual,"₹3,92,000
+₹4,14,000","Bellahalli, Bengaluru"
+176,2020 Renault Kwid,"42,061 KM
+2ND OWNER
+PETROL
+KA-19",RXT 1.0 AMT (O)Automatic,"₹4,75,000
+₹5,31,000","GT World Mall, Bengaluru"
+177,2018 Renault Kwid,"74,022 KM
+2ND OWNER
+PETROL
+KA-53",RXT 1.0 EASY-R ATAutomatic,"₹3,77,000
+₹4,38,000","GT World Mall, Bengaluru"
+178,2012 Maruti Swift,"55,529 KM
+1ST OWNER
+PETROL
+KA-09",VXIManual,"₹4,78,000
+₹5,15,000","Bellahalli, Bengaluru"
+179,2016 Hyundai Grand i10,"41,682 KM
+1ST OWNER
+PETROL
+KA-01",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹5,25,000
+₹5,81,000","Bellahalli, Bengaluru"
+180,2016 Maruti Swift,"63,411 KM
+1ST OWNER
+PETROL
+KA-41",VXIManual,"₹5,84,000
+₹6,30,000","Bellahalli, Bengaluru"
+181,2018 Maruti Swift,"36,789 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹6,50,000
+₹6,88,000","Bellahalli, Bengaluru"
+182,2015 Maruti Wagon R 1.0,"81,207 KM
+3RD OWNER
+PETROL
+KA-41",VXIManual,"₹3,45,000
+₹3,79,000","Bellahalli, Bengaluru"
+183,2016 Maruti Baleno,"83,075 KM
+2ND OWNER
+PETROL
+KA-06",DELTA CVT PETROL 1.2Automatic,"₹5,74,000
+₹6,06,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+184,2018 Maruti Swift,"70,690 KM
+1ST OWNER
+DIESEL
+KA-09",ZDI AMTAutomatic,"₹6,95,000
+₹7,75,000","Bellahalli, Bengaluru"
+185,2017 Maruti Baleno,"38,218 KM
+2ND OWNER
+PETROL
+KA-35",DELTA CVT PETROL 1.2Automatic,"₹6,00,000
+₹7,22,000","Bellahalli, Bengaluru"
+186,2016 Honda Jazz,"47,077 KM
+1ST OWNER
+PETROL
+KA-51",1.2L I-VTEC VManual,"₹5,46,700
+₹6,35,000","Bellahalli, Bengaluru"
+187,2021 Hyundai NEW I20,"77,648 KM
+1ST OWNER
+DIESEL
+KA-06",SPORTZ 1.5 MTManual,"₹8,38,000
+₹9,21,000","Bellahalli, Bengaluru"
+188,2016 Hyundai Grand i10,"88,200 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,11,000
+₹4,60,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+189,2017 Maruti Swift,"40,811 KM
+2ND OWNER
+PETROL
+KA-03",ZXIManual,"₹5,92,000
+₹6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+190,2012 Renault Pulse,"96,796 KM
+1ST OWNER
+DIESEL
+KA-05",RXL DIESELManual,"₹3,08,000
+₹3,26,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+191,2011 Hyundai i10,"89,678 KM
+1ST OWNER
+PETROL
+KA-55",SPORTZ 1.2Manual,"₹2,87,000
+₹2,98,000","Hosur Road, Singasandra, Bengaluru"
+192,2016 Hyundai Elite i20,"17,000 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2 (O)Manual,"₹7,38,000
+₹7,82,000",Sonnappanahalli
+193,2011 Hyundai i10,"41,802 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2Manual,"₹3,27,000
+₹3,55,000","Bellahalli, Bengaluru"
+194,2020 Hyundai GRAND I10 NIOS,"28,593 KM
+1ST OWNER
+PETROL
+KA-19",SPORTZ 1.2 KAPPA VTVTManual,"₹6,20,000
+₹7,12,000","Bellahalli, Bengaluru"
+195,2018 Maruti Celerio,"61,227 KM
+2ND OWNER
+PETROL
+KA-50",VXIManual,"₹4,55,000
+₹4,73,000","Bellahalli, Bengaluru"
+196,2014 Hyundai i20,"34,836 KM
+2ND OWNER
+PETROL
+KA-01",ASTA 1.2Manual,"₹5,16,000
+₹5,81,000","Hosur Road, Singasandra, Bengaluru"
+197,2016 Hyundai Elite i20,"14,516 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.2Manual,"₹6,57,000","Bellahalli, Bengaluru"
+198,2021 Toyota Glanza,"13,898 KM
+1ST OWNER
+PETROL
+KA-51",VManual,"₹8,17,000
+₹8,39,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+199,2021 Hyundai NEW I20,"58,286 KM
+1ST OWNER
+DIESEL
+KA-46",ASTA (O) 1.5 CRDI MTManual,"₹11,25,000
+₹11,89,000","Bellahalli, Bengaluru"
+200,2017 Maruti Celerio,"66,058 KM
+1ST OWNER
+PETROL
+KA-03",ZXI AMT ABSAutomatic,"₹4,39,000
+₹4,73,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+201,2022 Tata ALTROZ,"14,257 KM
+1ST OWNER
+PETROL
+KA-01",XZA PLUSAutomatic,"₹9,39,000
+₹9,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+202,2016 Maruti Swift,"60,777 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹5,55,000
+₹6,00,000","Horamavu Agara Road, Bengaluru"
+203,2017 Honda Jazz,"37,184 KM
+2ND OWNER
+PETROL
+KA-01",1.2L I-VTEC V ATAutomatic,"₹6,26,000
+₹6,92,000","Bellahalli, Bengaluru"
+204,2019 Renault Kwid,"18,305 KM
+1ST OWNER
+PETROL
+KA-03",RXT 1.0 (O)Manual,"₹4,57,000
+₹4,94,000","Horamavu Agara Road, Bengaluru"
+205,2012 Honda Brio,"29,320 KM
+1ST OWNER
+PETROL
+KA-03",S MTManual,"₹3,71,000
+₹3,95,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+206,2017 Maruti Alto K10,"27,720 KM
+2ND OWNER
+PETROL
+KA-19",VXIManual,"₹3,26,600
+₹3,80,000","Hosur Road, Singasandra, Bengaluru"
+207,2014 Hyundai Eon,"34,474 KM
+1ST OWNER
+PETROL
+KA-02",ERA +Manual,"₹2,93,000
+₹3,24,000","Hosur Road, Singasandra, Bengaluru"
+208,2016 Hyundai Elite i20,"91,660 KM
+1ST OWNER
+PETROL
+KA-01",ASTA 1.2 (O)Manual,"₹6,08,000
+₹6,84,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+209,2017 Hyundai Grand i10,"41,803 KM
+2ND OWNER
+PETROL
+KA-02",ASTA 1.2 KAPPA VTVTManual,"₹4,96,000
+₹5,55,000","Bellahalli, Bengaluru"
+210,2016 Honda Jazz,"77,501 KM
+3RD OWNER
+PETROL
+KA-02",1.2L I-VTEC VManual,"₹5,17,000
+₹5,72,000","Bellahalli, Bengaluru"
+211,2017 Maruti Baleno,"45,681 KM
+1ST OWNER
+PETROL
+KA-51",DELTA PETROL 1.2Manual,"₹6,41,000","Bellahalli, Bengaluru"
+212,2020 Hyundai GRAND I10 NIOS,"23,410 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.2 KAPPA VTVTManual,"₹6,16,000
+₹6,45,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+213,2017 Maruti IGNIS,"73,927 KM
+1ST OWNER
+PETROL
+KA-03",ZETA 1.2 AMTAutomatic,"₹5,08,000
+₹6,27,000","Bellahalli, Bengaluru"
+214,2010 Hyundai i10,"43,529 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ 1.2Manual,"₹2,70,000
+₹2,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+215,2017 Hyundai Grand i10,"17,574 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ (O) AT 1.2 KAPPA VTVTAutomatic,"₹6,17,000
+₹6,62,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+216,2021 Renault Kwid,"15,512 KM
+2ND OWNER
+PETROL
+KA-51",RXL 1.0Manual,"₹4,50,000
+₹4,67,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+217,2018 Maruti IGNIS,"5,458 KM
+1ST OWNER
+PETROL
+KA-03",ALPHA 1.2 DUAL TONEManual,"₹5,79,000
+₹6,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+218,2019 Hyundai Grand i10,"42,090 KM
+1ST OWNER
+PETROL
+KA-25",SPORTZ 1.2 KAPPA VTVTManual,"₹5,74,000
+₹6,31,000","Hosur Road, Singasandra, Bengaluru"
+219,2015 Maruti Swift,"45,513 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹5,32,000
+₹5,80,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+220,2016 Maruti Alto K10,"81,210 KM
+2ND OWNER
+PETROL
+KA-09",VXIManual,"₹3,18,000
+₹3,38,000","Bellahalli, Bengaluru"
+221,2019 Maruti Swift,"47,296 KM
+1ST OWNER
+PETROL
+KA-01",ZXIManual,"₹6,76,000
+₹7,18,000","Bellahalli, Bengaluru"
+222,2018 Maruti Swift,"42,059 KM
+2ND OWNER
+PETROL
+KA-04",VXI AMTAutomatic,"₹6,36,000
+₹7,05,000","Bellahalli, Bengaluru"
+223,2016 Maruti Baleno,"50,173 KM
+1ST OWNER
+PETROL
+KA-03",DELTA PETROL 1.2Manual,"₹5,91,000
+₹6,29,000","Bellahalli, Bengaluru"
+224,2015 Maruti Wagon R 1.0,"37,083 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹3,99,000
+₹4,51,000","Horamavu Agara Road, Bengaluru"
+225,2011 Maruti Alto K10,"37,681 KM
+3RD OWNER
+PETROL
+KA-19",VXIManual,"₹2,18,000
+₹2,48,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+226,2020 Maruti Swift,"61,433 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹6,60,000
+₹6,94,000","Bellahalli, Bengaluru"
+227,2017 Hyundai Eon,"20,089 KM
+1ST OWNER
+PETROL
+KA-51",ERA PLUS (O)Manual,"₹3,84,000
+₹4,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+228,2020 Renault Kwid,"24,521 KM
+1ST OWNER
+PETROL
+KA-08",RXT 1.0 AMT (O)Automatic,"₹5,17,000
+₹5,75,000","Horamavu Agara Road, Bengaluru"
+229,2016 Hyundai Grand i10,"69,819 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA VTVTManual,"₹4,54,000
+₹4,91,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+230,2015 Maruti Swift,"88,509 KM
+2ND OWNER
+DIESEL
+KA-25",VDI ABSManual,"₹5,52,000
+₹5,90,000","Bellahalli, Bengaluru"
+231,2013 Honda Brio,"78,871 KM
+2ND OWNER
+PETROL
+KA-41",S MTManual,"₹3,36,000
+₹3,70,000","Bellahalli, Bengaluru"
+232,2020 Maruti Alto,"75,591 KM
+1ST OWNER
+CNG
+KA-17",LXI OPT CNGManual,"₹4,21,000
+₹4,71,000","Bellahalli, Bengaluru"
+233,2017 Renault Kwid,"23,119 KM
+1ST OWNER
+PETROL
+KA-53",RXL 1.0 AMTAutomatic,"₹3,92,000
+₹4,07,000","Horamavu Agara Road, Bengaluru"
+234,2021 Maruti New Wagon-R,"11,679 KM
+1ST OWNER
+PETROL
+KA-03",VXI (O) 1.0Manual,"₹5,91,000
+₹6,01,000",Sonnappanahalli
+235,2018 Maruti Celerio X,"63,618 KM
+1ST OWNER
+PETROL
+KA-05",ZXIManual,"₹4,73,000
+₹5,45,000","GT World Mall, Bengaluru"
+236,2014 Hyundai Grand i10,"70,777 KM
+3RD OWNER
+PETROL
+KA-20",SPORTZ 1.2 KAPPA VTVTManual,"₹4,07,000
+₹4,42,000","Bellahalli, Bengaluru"
+237,2021 Maruti Baleno,"22,661 KM
+1ST OWNER
+PETROL
+KA-01",ZETA PETROL 1.2Manual,"₹8,08,000
+₹8,30,000",Sonnappanahalli
+238,2013 Hyundai i10,"69,263 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2 ATAutomatic,"₹3,40,000
+₹3,66,000","Hosur Road, Singasandra, Bengaluru"
+239,2016 Hyundai Elite i20,"72,362 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2 (O)Manual,"₹6,33,000
+₹7,27,000","Bellahalli, Bengaluru"
+240,2022 Maruti New Wagon-R,"29,074 KM
+1ST OWNER
+PETROL
+KA-11",ZXI 1.2Manual,"₹6,22,000
+₹6,70,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+241,2013 Maruti Swift,"81,712 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,57,000
+₹5,14,000","GT World Mall, Bengaluru"
+242,2021 Datsun Redi Go,"11,700 KM
+1ST OWNER
+PETROL
+KA-63",AManual,"₹4,00,000
+₹4,24,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+243,2015 Hyundai Eon,"1,09,923 KM
+1ST OWNER
+PETROL
+KA-09",ERA +Manual,"₹2,51,000
+₹2,80,000","Hosur Road, Singasandra, Bengaluru"
+244,2021 Maruti Alto,"14,771 KM
+1ST OWNER
+PETROL
+KA-03",VXI PLUSManual,"₹4,06,000
+₹4,71,000","Bellahalli, Bengaluru"
+245,2018 Hyundai Elite i20,"35,368 KM
+1ST OWNER
+PETROL
+KA-63",ASTA 1.2 (O)Manual,"₹7,57,000
+₹8,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+246,2022 Hyundai NEW I20 N LINE,"17,418 KM
+2ND OWNER
+PETROL
+KA-01",N8 1.0 TURBO GDI IMTManual,"₹11,34,000
+₹12,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+247,2016 Maruti Baleno,"79,415 KM
+1ST OWNER
+PETROL
+KA-53",ALPHA PETROL 1.2Manual,"₹6,20,000
+₹6,53,000","GT World Mall, Bengaluru"
+248,2016 Hyundai Elite i20,"57,459 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2 (O)Manual,"₹6,12,000
+₹7,10,000","Bellahalli, Bengaluru"
+249,2020 Maruti Baleno,"22,438 KM
+1ST OWNER
+PETROL
+KA-04",DELTA PETROL 1.2Manual,"₹7,33,000
+₹7,42,000","Horamavu Agara Road, Bengaluru"
+250,2013 Maruti Alto K10,"82,482 KM
+3RD OWNER
+PETROL
+KA-41",VXIManual,"₹2,31,000
+₹2,44,000","Bellahalli, Bengaluru"
+251,2018 Maruti Celerio X,"23,219 KM
+1ST OWNER
+PETROL
+KA-04",ZXI AMTAutomatic,"₹5,60,000
+₹5,97,000","GT World Mall, Bengaluru"
+252,2015 Hyundai Grand i10,"60,691 KM
+2ND OWNER
+PETROL
+KA-26",SPORTZ 1.2 KAPPA VTVTManual,"₹4,19,000
+₹5,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+253,2019 Renault Kwid,"55,609 KM
+1ST OWNER
+PETROL
+KA-13",CLIMBER 1.0 (O)Manual,"₹4,53,000
+₹4,66,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+254,2018 Maruti Celerio X,"61,576 KM
+2ND OWNER
+PETROL
+KA-51",ZXI (O)Manual,"₹4,68,000
+₹4,73,000","Bellahalli, Bengaluru"
+255,2017 Renault Kwid,"41,993 KM
+1ST OWNER
+PETROL
+KA-50",RXL 1.0Manual,"₹3,76,000",Sonnappanahalli
+256,2019 Hyundai GRAND I10 NIOS,"28,315 KM
+1ST OWNER
+PETROL
+KA-41",SPORTZ AMT 1.2 KAPPA VTVTAutomatic,"₹6,84,000
+₹7,41,000",Sonnappanahalli
+257,2016 Maruti Celerio,"41,464 KM
+1ST OWNER
+PETROL
+KA-05",ZXI AMTAutomatic,"₹4,60,000
+₹5,41,000","Horamavu Agara Road, Bengaluru"
+258,2021 Maruti New Wagon-R,"14,009 KM
+1ST OWNER
+PETROL
+KA-19",ZXI 1.2Manual,"₹6,41,000
+₹6,53,000","Hosur Road, Singasandra, Bengaluru"
+259,2013 Hyundai i20,"1,24,514 KM
+1ST OWNER
+DIESEL
+KA-51",ASTA 1.4 CRDIManual,"₹4,65,000
+₹4,84,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+260,2021 Maruti Alto,"18,835 KM
+1ST OWNER
+PETROL
+KA-50",VXI PLUSManual,"₹4,15,000
+₹4,76,000",Sonnappanahalli
+261,2019 Honda Jazz,"32,790 KM
+2ND OWNER
+PETROL
+KA-05",1.2L I-VTEC VX CVTAutomatic,"₹7,67,000
+₹9,63,000","Bellahalli, Bengaluru"
+262,2011 Maruti Wagon R 1.0,"70,867 KM
+2ND OWNER
+PETROL
+KA-51",VXIManual,"₹2,85,000
+₹3,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+263,2014 Hyundai Grand i10,"96,297 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ 1.2 KAPPA VTVTManual,"₹4,02,000
+₹4,52,000","Horamavu Agara Road, Bengaluru"
+264,2012 Hyundai i20,"67,444 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ 1.2Manual,"₹4,17,000
+₹4,38,000","Bellahalli, Bengaluru"
+265,2020 Hyundai GRAND I10 NIOS,"79,978 KM
+1ST OWNER
+PETROL
+KA-51",Asta PetrolManual,"₹6,29,000
+₹7,83,000","Bellahalli, Bengaluru"
+266,2014 Hyundai Elite i20,"67,515 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2Manual,"₹5,28,000
+₹5,84,000","Bellahalli, Bengaluru"
+267,2021 Hyundai NEW I20,"29,202 KM
+1ST OWNER
+PETROL
+KA-05",ASTA (O) 1.0 TURBO GDI DCTAutomatic,"₹10,75,000
+₹11,56,000","Bellahalli, Bengaluru"
+268,2010 Hyundai i10,"62,726 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA 1.2Manual,"₹2,76,000
+₹2,94,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+269,2015 Hyundai Grand i10,"31,614 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,49,000
+₹5,27,000","GT World Mall, Bengaluru"
+270,2021 Renault Kwid,"6,200 KM
+1ST OWNER
+PETROL
+KA-19",CLIMBER 1.0 (O)Manual,"₹5,72,000","Horamavu Agara Road, Bengaluru"
+271,2010 Maruti Wagon R 1.0,"35,969 KM
+2ND OWNER
+PETROL
+KA-53",VXIManual,"₹2,84,000
+₹3,13,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+272,2018 Hyundai Grand i10,"29,550 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ AT 1.2 KAPPA VTVTAutomatic,"₹6,37,000
+₹6,69,000","Bellahalli, Bengaluru"
+273,2019 Hyundai Elite i20,"14,285 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ PLUS 1.2 CVTAutomatic,"₹8,03,000
+₹8,65,000",Sonnappanahalli
+274,2018 Hyundai Elite i20,"55,152 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2 DUAL TONEManual,"₹7,10,000
+₹7,69,000","Hosur Road, Singasandra, Bengaluru"
+275,2020 Renault Kwid,"37,880 KM
+1ST OWNER
+PETROL
+KA-41",RXT 1.0 AMT (O)Automatic,"₹5,26,000
+₹5,68,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+276,2021 Maruti Celerio,"2,370 KM
+1ST OWNER
+PETROL
+KA-25",ZXI PLUSManual,"₹6,66,000
+₹7,13,000","Bellahalli, Bengaluru"
+277,2017 Maruti Swift,"52,382 KM
+1ST OWNER
+PETROL
+KA-25",ZXIManual,"₹6,56,000
+₹6,76,000","Horamavu Agara Road, Bengaluru"
+278,2021 Renault Kiger,"16,082 KM
+1ST OWNER
+PETROL
+KA-04",RXZ CVT 1.0 TURBO DUAL TONEAutomatic,"₹9,48,000
+₹11,77,000","Garuda Mall, Magrath Road, Bengaluru"
+279,2021 Maruti IGNIS,"4,940 KM
+2ND OWNER
+PETROL
+KA-01",DELTA 1.2 AMTAutomatic,"₹6,85,000
+₹7,00,000","Bellahalli, Bengaluru"
+280,2016 Maruti Baleno,"1,00,894 KM
+1ST OWNER
+PETROL
+KA-05",ALPHA PETROL 1.2Manual,"₹5,92,000
+₹6,29,000","Horamavu Agara Road, Bengaluru"
+281,2020 Maruti Baleno,"27,459 KM
+1ST OWNER
+PETROL
+KA-05",DELTA PETROL 1.2Manual,"₹7,19,000
+₹7,42,000","Bellahalli, Bengaluru"
+282,2014 Maruti Alto 800,"71,218 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹2,51,000
+₹2,95,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+283,2016 Renault Kwid,"38,702 KM
+1ST OWNER
+PETROL
+KA-51",RXT 0.8 (O)Manual,"₹3,52,000
+₹3,73,000",Sonnappanahalli
+284,2016 Hyundai Elite i20,"35,410 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2Manual,"₹6,57,000
+₹6,75,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+285,2020 Renault Kwid,"8,733 KM
+1ST OWNER
+PETROL
+KA-01",RXT 1.0 AMT (O)Automatic,"₹5,60,000
+₹5,82,000","Bellahalli, Bengaluru"
+286,2019 Renault Kwid,"7,155 KM
+1ST OWNER
+PETROL
+KA-03",RXT 1.0 AMT (O)Automatic,"₹5,05,000
+₹5,49,000","Hosur Road, Singasandra, Bengaluru"
+287,2015 Hyundai Elite i20,"83,731 KM
+2ND OWNER
+DIESEL
+KA-51",ASTA 1.4 CRDIManual,"₹6,07,000
+₹6,39,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+288,2014 Hyundai i10,"48,978 KM
+1ST OWNER
+PETROL
+KA-42",ERA 1.1Manual,"₹3,45,000
+₹3,62,000","Bellahalli, Bengaluru"
+289,2016 Hyundai Grand i10,"29,453 KM
+2ND OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹4,96,000
+₹5,58,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+290,2018 Hyundai Grand i10,"40,769 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA 1.2 KAPPA VTVTManual,"₹5,41,000
+₹5,70,000","Bellahalli, Bengaluru"
+291,2014 Maruti Celerio,"99,227 KM
+1ST OWNER
+PETROL
+KA-50",VXI AMTAutomatic,"₹3,67,000
+₹3,92,000","Bellahalli, Bengaluru"
+292,2014 Maruti Swift,"88,051 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹5,13,000","Bellahalli, Bengaluru"
+293,2021 Maruti Swift,"48,628 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹6,92,000
+₹7,25,000",Sonnappanahalli
+294,2018 Maruti Celerio,"51,877 KM
+3RD OWNER
+PETROL
+KA-02",ZXIManual,"₹4,75,250
+₹4,96,000","Horamavu Agara Road, Bengaluru"
+295,2015 Maruti Alto K10,"46,720 KM
+2ND OWNER
+PETROL
+KA-03",VXIManual,"₹2,99,000
+₹3,54,000","Hosur Road, Singasandra, Bengaluru"
+296,2021 Renault Kwid,"11,389 KM
+1ST OWNER
+PETROL
+KA-04",1.0 CLIMBER OPTManual,"₹5,10,000
+₹5,59,000","Bellahalli, Bengaluru"
+297,2016 Tata Tiago,"13,286 KM
+1ST OWNER
+PETROL
+KA-02",XZ PETROLManual,"₹5,15,000
+₹5,48,000","Bellahalli, Bengaluru"
+298,2020 Renault Kwid,"10,916 KM
+2ND OWNER
+PETROL
+KA-51",RXT 1.0 AMT (O)Automatic,"₹4,97,000
+₹5,56,000","Bellahalli, Bengaluru"
+299,2015 Maruti Wagon R 1.0,"69,581 KM
+2ND OWNER
+PETROL
+KA-03",VXIManual,"₹3,64,000
+₹4,21,000","Horamavu Agara Road, Bengaluru"
+300,2016 Hyundai Grand i10,"88,119 KM
+2ND OWNER
+PETROL
+KA-05",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,13,000
+₹5,54,000",Sonnappanahalli
+301,2020 Renault Kwid,"7,390 KM
+1ST OWNER
+PETROL
+KA-01",CLIMBER 1.0 AMT (O)Automatic,"₹5,43,000
+₹5,60,000","Bellahalli, Bengaluru"
+302,2015 Maruti Celerio,"56,150 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹4,13,000
+₹4,55,000","Hosur Road, Singasandra, Bengaluru"
+303,2021 Maruti S PRESSO,"52,288 KM
+1ST OWNER
+PETROL
+KA-33",VXI+Manual,"₹4,37,750
+₹5,00,000","Hosur Road, Singasandra, Bengaluru"
+304,2016 Hyundai Grand i10,"46,894 KM
+3RD OWNER
+PETROL
+KA-01",ASTA 1.2 KAPPA VTVTManual,"₹4,53,000
+₹4,88,000","Hosur Road, Singasandra, Bengaluru"
+305,2015 Honda Jazz,"96,896 KM
+1ST OWNER
+PETROL
+KA-02",1.2L I-VTEC V ATAutomatic,"₹5,26,000
+₹5,77,000","GT World Mall, Bengaluru"
+306,2019 Renault Kwid,"23,439 KM
+1ST OWNER
+PETROL
+KA-05",RXT 1.0 AMT (O)Automatic,"₹4,83,000
+₹5,04,000","Bellahalli, Bengaluru"
+307,2016 Honda Jazz,"63,797 KM
+1ST OWNER
+PETROL
+KA-41",1.2L I-VTEC VManual,"₹6,15,000
+₹6,51,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+308,2015 Hyundai Elite i20,"72,961 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹5,95,000
+₹6,61,000","Hosur Road, Singasandra, Bengaluru"
+309,2015 Maruti Swift,"91,087 KM
+1ST OWNER
+PETROL
+KA-01",VXIManual,"₹5,10,000
+₹5,51,000","Hosur Road, Singasandra, Bengaluru"
+310,2013 Maruti Swift,"32,993 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹4,83,000
+₹5,15,000","Horamavu Agara Road, Bengaluru"
+311,2020 Tata ALTROZ,"45,295 KM
+1ST OWNER
+PETROL
+KA-51",XZ PETROLManual,"₹7,68,000
+₹8,31,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+312,2014 Hyundai Grand i10,"60,008 KM
+2ND OWNER
+PETROL
+KA-04",SPORTZ 1.2 KAPPA VTVTManual,"₹3,95,000
+₹4,21,000","Bellahalli, Bengaluru"
+313,2016 Maruti Celerio,"15,437 KM
+2ND OWNER
+PETROL
+KA-05",ZXIManual,"₹4,61,000
+₹4,87,000","Bellahalli, Bengaluru"
+314,2014 Hyundai i20,"55,836 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2Manual,"₹4,73,000
+₹5,29,000","Horamavu Agara Road, Bengaluru"
+315,2017 Maruti Alto 800,"26,215 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹3,21,000
+₹3,53,000","Bellahalli, Bengaluru"
+316,2015 Maruti Swift,"52,486 KM
+2ND OWNER
+PETROL
+KA-35",VXIManual,"₹5,05,000
+₹5,52,000","Bellahalli, Bengaluru"
+317,2018 Hyundai Grand i10,"16,247 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2 KAPPA VTVTManual,"₹6,33,000
+₹6,73,000","Bellahalli, Bengaluru"
+318,2017 Maruti Celerio,"86,678 KM
+3RD OWNER
+PETROL
+KA-01",ZXI AMT (O)Automatic,"₹3,97,000
+₹4,70,000","Hosur Road, Singasandra, Bengaluru"
+319,2019 Maruti Alto,"67,329 KM
+1ST OWNER
+PETROL
+KA-16",VXIManual,"₹3,25,000
+₹3,80,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+320,2018 Renault Kwid,"34,398 KM
+1ST OWNER
+PETROL
+KA-02",RXT 1.0 EASY-R ATAutomatic,"₹4,34,000
+₹4,73,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+321,2016 Hyundai Grand i10,"49,641 KM
+1ST OWNER
+PETROL
+KA-53",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,41,000
+₹5,95,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+322,2015 Hyundai Grand i10,"96,455 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ 1.2 KAPPA VTVTManual,"₹3,94,000
+₹4,88,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+323,2014 Maruti Swift,"49,570 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹5,07,000
+₹5,60,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+324,2016 Hyundai Elite i20,"53,789 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹6,33,000
+₹7,13,000","GT World Mall, Bengaluru"
+325,2016 Hyundai Elite i20,"59,734 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹6,06,000
+₹6,82,000","Bellahalli, Bengaluru"
+326,2011 Hyundai i10,"69,532 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2 ATAutomatic,"₹3,23,000
+₹3,45,000","Hosur Road, Singasandra, Bengaluru"
+327,2015 Maruti Swift,"67,791 KM
+2ND OWNER
+DIESEL
+KA-05",ZDIManual,"₹6,44,000
+₹6,82,000","Bellahalli, Bengaluru"
+328,2015 Honda Jazz,"55,412 KM
+1ST OWNER
+PETROL
+KA-09",1.2L I-VTEC V ATAutomatic,"₹5,52,000
+₹6,03,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+329,2022 Maruti S PRESSO,"45,872 KM
+1ST OWNER
+PETROL
+KA-16",VXI+Manual,"₹4,89,000
+₹5,24,000","Bellahalli, Bengaluru"
+330,2015 Hyundai Grand i10,"46,988 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,48,000
+₹5,28,000","GT World Mall, Bengaluru"
+331,2014 Hyundai Grand i10,"76,009 KM
+1ST OWNER
+DIESEL
+KA-51",MAGNA 1.1 CRDIManual,"₹4,44,000
+₹4,75,000","Bellahalli, Bengaluru"
+332,2020 Maruti New Wagon-R,"33,793 KM
+2ND OWNER
+PETROL
+KA-53",ZXI 1.2 AMTAutomatic,"₹6,12,000
+₹6,67,000","Bellahalli, Bengaluru"
+333,2017 Renault Kwid,"43,199 KM
+1ST OWNER
+PETROL
+KA-06",RXT 1.0Manual,"₹3,92,000
+₹3,99,000","Bellahalli, Bengaluru"
+334,2014 Maruti Swift,"63,782 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,60,000
+₹5,15,000","Bellahalli, Bengaluru"
+335,2016 Hyundai Grand i10,"25,960 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2 KAPPA VTVTManual,"₹5,06,000
+₹5,50,000","Horamavu Agara Road, Bengaluru"
+336,2010 Maruti Wagon R 1.0,"69,120 KM
+2ND OWNER
+PETROL
+KA-04",VXIManual,"₹2,76,000
+₹3,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+337,2016 Tata Tiago,"1,42,372 KM
+1ST OWNER
+PETROL
+KA-03",XZ PETROLManual,"₹4,33,000
+₹4,61,000","Bellahalli, Bengaluru"
+338,2017 Honda Jazz,"70,235 KM
+1ST OWNER
+PETROL
+KA-03",1.2L I-VTEC VXManual,"₹5,43,000
+₹6,40,000","Horamavu Agara Road, Bengaluru"
+339,2017 Maruti Baleno,"21,957 KM
+1ST OWNER
+PETROL
+KA-17",ZETA PETROL 1.2Manual,"₹6,77,000
+₹7,05,000","Bellahalli, Bengaluru"
+340,2015 Renault Kwid,"90,079 KM
+1ST OWNER
+PETROL
+KA-51",RXT 0.8Manual,"₹3,09,300",Sonnappanahalli
+341,2017 Hyundai Elite i20,"93,975 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2 (O)Manual,"₹6,18,000
+₹7,00,000","Bellahalli, Bengaluru"
+342,2019 Renault Kwid,"5,083 KM
+2ND OWNER
+PETROL
+KA-50",RXT 1.0 AMT (O)Automatic,"₹5,06,000
+₹5,41,000","Horamavu Agara Road, Bengaluru"
+343,2020 Renault Kwid,"22,474 KM
+1ST OWNER
+PETROL
+KA-50",RXT 1.0 AMT (O)Automatic,"₹5,55,000
+₹5,86,000","Horamavu Agara Road, Bengaluru"
+344,2019 Renault Kwid,"21,997 KM
+1ST OWNER
+PETROL
+KA-03",RXT 1.0 (O)Manual,"₹4,41,000
+₹4,72,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+345,2017 Hyundai Grand i10,"70,381 KM
+1ST OWNER
+PETROL
+KA-50",ASTA 1.2 KAPPA VTVTManual,"₹5,65,000
+₹6,15,000",Sonnappanahalli
+346,2016 Hyundai Elite i20,"40,335 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.2Manual,"₹5,77,000
+₹6,52,000","Bellahalli, Bengaluru"
+347,2015 Maruti Wagon R 1.0,"80,863 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹3,56,000
+₹4,15,000","Bellahalli, Bengaluru"
+348,2020 Maruti Baleno,"5,521 KM
+1ST OWNER
+PETROL
+KA-05",DELTA PETROL 1.2Manual,"₹7,22,000
+₹7,53,000",Sonnappanahalli
+349,2018 Maruti Celerio,"64,453 KM
+1ST OWNER
+PETROL
+KA-41",ZXI AMT (O)Automatic,"₹4,84,000
+₹5,28,000","Hosur Road, Singasandra, Bengaluru"
+350,2015 Maruti Swift,"29,289 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹5,67,000
+₹6,29,000","Horamavu Agara Road, Bengaluru"
+351,2019 Hyundai Grand i10,"69,199 KM
+2ND OWNER
+PETROL
+KA-53",ASTA 1.2 KAPPA VTVTManual,"₹5,64,000
+₹6,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+352,2016 Maruti Celerio,"41,268 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹4,19,000
+₹4,37,000","Bellahalli, Bengaluru"
+353,2015 Hyundai Grand i10,"32,168 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,36,000
+₹5,40,000","Bellahalli, Bengaluru"
+354,2016 Hyundai Grand i10,"39,693 KM
+2ND OWNER
+PETROL
+KA-01",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,24,000
+₹5,83,000","Bellahalli, Bengaluru"
+355,2020 Maruti New Wagon-R,"3,725 KM
+1ST OWNER
+PETROL
+KA-05",ZXI 1.2 AMTAutomatic,"₹6,50,000
+₹7,02,000","Horamavu Agara Road, Bengaluru"
+356,2016 Renault Kwid,"66,707 KM
+1ST OWNER
+PETROL
+KA-51",RXT 0.8 (O)Manual,"₹3,41,000
+₹3,51,000",Sonnappanahalli
+357,2017 Maruti Baleno,"80,830 KM
+1ST OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹6,51,000
+₹7,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+358,2017 Honda Jazz,"45,938 KM
+2ND OWNER
+PETROL
+KA-03",1.2 V MTManual,"₹5,79,000
+₹7,85,000","Bellahalli, Bengaluru"
+359,2016 Maruti Baleno,"39,674 KM
+1ST OWNER
+PETROL
+KA-51",DELTA PETROL 1.2Manual,"₹6,38,000","GT World Mall, Bengaluru"
+360,2016 Hyundai Grand i10,"51,086 KM
+1ST OWNER
+PETROL
+KA-05",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,02,000
+₹5,55,000","Horamavu Agara Road, Bengaluru"
+361,2017 Maruti Celerio,"40,997 KM
+2ND OWNER
+PETROL
+KA-03",VXIManual,"₹4,44,000
+₹4,56,000","Bellahalli, Bengaluru"
+362,2014 Maruti Swift,"51,489 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹5,00,000
+₹5,15,000","Hosur Road, Singasandra, Bengaluru"
+363,2020 Tata Tiago,"35,383 KM
+1ST OWNER
+PETROL
+KA-53",XZ PLUS DUAL TONE PETROLManual,"₹6,60,000
+₹6,96,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+364,2014 Maruti Celerio,"30,876 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,04,000
+₹4,50,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+365,2016 Maruti Baleno,"1,16,624 KM
+1ST OWNER
+PETROL
+KA-21",ZETA PETROL 1.2Manual,"₹6,28,000
+₹6,53,000","Bellahalli, Bengaluru"
+366,2019 Maruti Celerio,"20,017 KM
+1ST OWNER
+PETROL
+KA-51",VXI AMTAutomatic,"₹5,19,000
+₹5,58,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+367,2016 Hyundai Grand i10,"54,659 KM
+2ND OWNER
+PETROL
+KA-03",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹4,58,000
+₹5,54,000","GT World Mall, Bengaluru"
+368,2019 Maruti Celerio,"45,551 KM
+1ST OWNER
+PETROL
+KA-03",VXI AMT (O)Automatic,"₹5,29,000
+₹5,93,000","Bellahalli, Bengaluru"
+369,2017 Hyundai Elite i20,"1,25,227 KM
+2ND OWNER
+DIESEL
+KA-03",ASTA 1.4 CRDI (O)Manual,"₹6,71,000
+₹7,11,000","Bellahalli, Bengaluru"
+370,2014 Maruti Swift,"27,518 KM
+2ND OWNER
+PETROL
+KA-53",VXIManual,"₹5,04,000
+₹5,15,000","Bellahalli, Bengaluru"
+371,2021 Honda Jazz,"25,802 KM
+1ST OWNER
+PETROL
+KA-01",1.2L I-VTEC ZXManual,"₹8,26,000
+₹8,67,000","Horamavu Agara Road, Bengaluru"
+372,2013 Maruti Wagon R 1.0,"44,807 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹3,55,000
+₹3,84,000","Bellahalli, Bengaluru"
+373,2017 Honda Jazz,"60,442 KM
+2ND OWNER
+PETROL
+KA-05",1.2L I-VTEC VXManual,"₹5,28,000
+₹6,25,000","Bellahalli, Bengaluru"
+374,2015 Hyundai Grand i10,"60,197 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA VTVTManual,"₹3,93,700
+₹4,94,000","Bellahalli, Bengaluru"
+375,2015 Hyundai i20 Active,"83,856 KM
+2ND OWNER
+DIESEL
+KA-50",1.4 SXManual,"₹6,65,000
+₹6,98,000","Bellahalli, Bengaluru"
+376,2020 Hyundai GRAND I10 NIOS,"22,234 KM
+2ND OWNER
+PETROL
+KA-36",ASTA AMT 1.2 KAPPA VTVTAutomatic,"₹7,20,000
+₹7,85,000","Bellahalli, Bengaluru"
+377,2012 Hyundai i20,"40,296 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2Manual,"₹4,57,000
+₹4,80,000","Bellahalli, Bengaluru"
+378,2017 Hyundai Grand i10,"86,046 KM
+1ST OWNER
+PETROL
+KA-21",ASTA 1.2 KAPPA VTVTManual,"₹5,04,000
+₹5,41,000","Horamavu Agara Road, Bengaluru"
+379,2015 Hyundai Grand i10,"44,212 KM
+2ND OWNER
+PETROL
+KA-53",SPORTZ 1.2 KAPPA VTVTManual,"₹4,64,000
+₹5,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+380,2019 Maruti Alto,"41,958 KM
+1ST OWNER
+PETROL
+KA-51",LXI OManual,"₹3,70,000
+₹4,28,000","Bellahalli, Bengaluru"
+381,2021 Maruti S PRESSO,"42,954 KM
+1ST OWNER
+PETROL
+KA-52",VXI (O)Manual,"₹4,72,000
+₹5,02,000","Bellahalli, Bengaluru"
+382,2012 Maruti Swift,"66,346 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,30,000
+₹4,74,000","Horamavu Agara Road, Bengaluru"
+383,2020 Tata Tiago,"26,591 KM
+1ST OWNER
+PETROL
+KA-53",XZA PLUS DUAL TONE PETROLAutomatic,"₹7,06,000
+₹7,48,000","Horamavu Agara Road, Bengaluru"
+384,2020 Hyundai GRAND I10 NIOS,"23,056 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ AMT 1.2 KAPPA VTVTAutomatic,"₹7,22,000
+₹7,82,000","Bellahalli, Bengaluru"
+385,2019 Honda Jazz,"63,460 KM
+1ST OWNER
+PETROL
+KA-05",1.2L I-VTEC VX CVTAutomatic,"₹7,74,000
+₹9,46,000","Hosur Road, Singasandra, Bengaluru"
+386,2015 Maruti Swift,"57,604 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹5,19,000
+₹5,85,000","Horamavu Agara Road, Bengaluru"
+387,2018 Maruti Celerio X,"17,125 KM
+2ND OWNER
+PETROL
+KA-01",ZXI (O)Manual,"₹5,30,000
+₹6,05,000","Bellahalli, Bengaluru"
+388,2012 Maruti Swift,"42,762 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,41,000
+₹5,01,000","Horamavu Agara Road, Bengaluru"
+389,2012 Honda Brio,"79,059 KM
+2ND OWNER
+PETROL
+KA-51",S MTManual,"₹3,29,000
+₹3,59,000","Bellahalli, Bengaluru"
+390,2021 Renault Kiger,"32,302 KM
+1ST OWNER
+PETROL
+KA-51",RXZ CVT 1.0 TURBOAutomatic,"₹9,67,000
+₹11,62,000","Bellahalli, Bengaluru"
+391,2020 Renault Kwid,"11,662 KM
+2ND OWNER
+PETROL
+KA-01",RXT 1.0 AMT (O)Automatic,"₹5,82,000","Bellahalli, Bengaluru"
+392,2016 Maruti Swift,"30,740 KM
+1ST OWNER
+PETROL
+KA-41",VXIManual,"₹5,92,000
+₹6,50,000","Hosur Road, Singasandra, Bengaluru"
+393,2014 Maruti Swift,"52,802 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹4,75,000
+₹5,15,000","Hosur Road, Singasandra, Bengaluru"
+394,2016 Nissan Micra,"33,902 KM
+2ND OWNER
+PETROL
+KA-05",XV CVTAutomatic,"₹4,88,000
+₹5,62,000","Bellahalli, Bengaluru"
+395,2017 Maruti Alto 800,"41,690 KM
+2ND OWNER
+PETROL
+KA-53",VXI OManual,"₹3,09,000
+₹3,41,000","Horamavu Agara Road, Bengaluru"
+396,2014 Hyundai i20,"47,092 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2Manual,"₹4,77,000
+₹5,25,000","Hosur Road, Singasandra, Bengaluru"
+397,2018 Maruti Celerio X,"42,174 KM
+1ST OWNER
+PETROL
+KA-51",ZXI AMTAutomatic,"₹5,16,000
+₹5,53,000","Bellahalli, Bengaluru"
+398,2018 Hyundai NEW SANTRO,"38,985 KM
+1ST OWNER
+PETROL
+KA-50",SPORTZ AMTAutomatic,"₹5,41,000
+₹5,83,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+399,2015 Hyundai Grand i10,"56,719 KM
+2ND OWNER
+PETROL
+KA-04",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,56,000
+₹5,72,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+400,2016 Hyundai Elite i20,"67,764 KM
+1ST OWNER
+DIESEL
+KA-50",ASTA 1.4 CRDI (O)Manual,"₹7,38,000","Horamavu Agara Road, Bengaluru"
+401,2016 Hyundai Elite i20,"31,983 KM
+1ST OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹7,21,000
+₹7,42,000",Sonnappanahalli
+402,2018 Maruti Swift,"87,660 KM
+1ST OWNER
+PETROL
+KA-01",VXI AMTAutomatic,"₹6,12,000
+₹7,05,000","GT World Mall, Bengaluru"
+403,2021 Maruti Alto,"24,343 KM
+2ND OWNER
+PETROL
+KA-51",VXI PLUSManual,"₹4,29,000
+₹4,68,000","Bellahalli, Bengaluru"
+404,2014 Hyundai Grand i10,"26,580 KM
+2ND OWNER
+PETROL
+KA-03",MAGNA 1.2 KAPPA VTVTManual,"₹4,02,000
+₹4,17,000","Hosur Road, Singasandra, Bengaluru"
+405,2017 Maruti IGNIS,"74,643 KM
+1ST OWNER
+PETROL
+KA-06",ZETA 1.2 AMTAutomatic,"₹5,20,000
+₹5,68,000","Bellahalli, Bengaluru"
+406,2014 Hyundai Grand i10,"20,042 KM
+1ST OWNER
+PETROL
+KA-51",ASTA (O) 1.2 KAPPA VTVTManual,"₹4,98,000
+₹5,58,000","Bellahalli, Bengaluru"
+407,2015 Honda Brio,"22,262 KM
+2ND OWNER
+PETROL
+KA-03",S MTManual,"₹4,07,000
+₹4,31,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+408,2017 Tata Tiago,"68,039 KM
+2ND OWNER
+PETROL
+KA-53",XT PETROLManual,"₹4,78,000
+₹5,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+409,2020 Renault Kwid,"12,341 KM
+1ST OWNER
+PETROL
+KA-05",RXT 1.0 AMT (O)Automatic,"₹5,41,000
+₹5,82,000","Hosur Road, Singasandra, Bengaluru"
+410,2013 Maruti Ritz,"1,06,747 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹3,60,000
+₹3,89,000","Hosur Road, Singasandra, Bengaluru"
+411,2014 Honda Brio,"64,312 KM
+1ST OWNER
+PETROL
+KA-01",V MTManual,"₹3,68,000
+₹4,13,000","Bellahalli, Bengaluru"
+412,2012 Honda Brio,"60,181 KM
+2ND OWNER
+PETROL
+KA-05",S(O) MTManual,"₹3,17,000
+₹3,58,000","Bellahalli, Bengaluru"
+413,2020 Maruti Celerio,"37,365 KM
+1ST OWNER
+PETROL
+KA-51",ZXIManual,"₹5,11,000
+₹5,24,000","GT World Mall, Bengaluru"
+414,2015 Maruti Celerio,"52,209 KM
+1ST OWNER
+PETROL
+KA-51",ZXIManual,"₹4,33,000
+₹4,87,000","Bellahalli, Bengaluru"
+415,2012 Hyundai i20,"44,326 KM
+1ST OWNER
+PETROL
+KA-04",ASTA 1.2Manual,"₹4,80,000
+₹5,04,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+416,2013 Maruti Swift,"44,437 KM
+1ST OWNER
+PETROL
+KA-01",LXIManual,"₹4,35,000
+₹4,65,000","Bellahalli, Bengaluru"
+417,2019 Hyundai Grand i10,"42,976 KM
+1ST OWNER
+PETROL
+KA-04",SPORTZ 1.2 KAPPA VTVTManual,"₹5,77,000
+₹6,37,000","Bellahalli, Bengaluru"
+418,2017 Hyundai Grand i10,"44,268 KM
+2ND OWNER
+PETROL
+KA-04",ASTA 1.2 KAPPA VTVTManual,"₹5,80,000
+₹6,20,000","Bellahalli, Bengaluru"
+419,2016 Maruti Swift,"43,946 KM
+1ST OWNER
+PETROL
+KA-51",ZXIManual,"₹6,69,000
+₹6,76,000","GT World Mall, Bengaluru"
+420,2014 Hyundai Grand i10,"73,975 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ 1.2 KAPPA VTVTManual,"₹4,33,000
+₹4,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+421,2015 Hyundai Grand i10,"70,864 KM
+1ST OWNER
+PETROL
+KA-02",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,73,000
+₹5,45,000","GT World Mall, Bengaluru"
+422,2020 Hyundai NEW I20,"14,949 KM
+1ST OWNER
+PETROL
+KA-05",Asta 1.0 GDI Turbo IMTManual,"₹9,92,000","Bellahalli, Bengaluru"
+423,2021 Renault Kiger,"14,608 KM
+1ST OWNER
+PETROL
+KA-04",RXZ CVT 1.0 TURBO DUAL TONEAutomatic,"₹9,47,000
+₹11,77,000","Bellahalli, Bengaluru"
+424,2013 Maruti Swift,"97,871 KM
+2ND OWNER
+DIESEL
+KA-02",VDIManual,"₹4,41,000
+₹5,04,000","Bellahalli, Bengaluru"
+425,2015 Maruti Swift,"35,250 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹5,48,000
+₹5,91,000","GT World Mall, Bengaluru"
+426,2019 Maruti Celerio,"15,356 KM
+1ST OWNER
+PETROL
+KA-01",VXIManual,"₹5,06,000
+₹5,35,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+427,2020 Renault Kwid,"20,248 KM
+1ST OWNER
+PETROL
+KA-04",RXT 1.0 AMT (O)Automatic,"₹5,16,000
+₹5,82,000","Bellahalli, Bengaluru"
+428,2021 Renault Kwid,"20,023 KM
+1ST OWNER
+PETROL
+KA-14",CLIMBER 1.0 (O)Manual,"₹5,27,000
+₹5,78,000","Bellahalli, Bengaluru"
+429,2017 Maruti IGNIS,"42,622 KM
+3RD OWNER
+PETROL
+KA-03",DELTA 1.2 AMTAutomatic,"₹5,43,350
+₹5,97,000","Bellahalli, Bengaluru"
+430,2017 Hyundai i20 Active,"43,031 KM
+1ST OWNER
+PETROL
+KA-04",1.2 SXManual,"₹7,14,000
+₹7,88,000","Bellahalli, Bengaluru"
+431,2019 Renault Kwid,"26,039 KM
+1ST OWNER
+PETROL
+KA-50",RXT 1.0 (O)Manual,"₹4,23,000
+₹4,63,000","Hosur Road, Singasandra, Bengaluru"
+432,2014 Maruti Swift,"24,700 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,96,000
+₹5,65,000","Horamavu Agara Road, Bengaluru"
+433,2013 Honda Brio,"81,100 KM
+2ND OWNER
+PETROL
+KA-51",S MTManual,"₹3,16,000
+₹3,38,000","Bellahalli, Bengaluru"
+434,2015 Hyundai Elite i20,"53,606 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹6,65,000
+₹6,83,000","Hosur Road, Singasandra, Bengaluru"
+435,2015 Maruti Celerio,"36,209 KM
+2ND OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹4,25,000
+₹4,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+436,2016 Maruti Baleno,"69,310 KM
+1ST OWNER
+PETROL
+KA-05",ZETA PETROL 1.2Manual,"₹6,53,000
+₹7,14,000","Bellahalli, Bengaluru"
+437,2021 Renault Kwid,"19,062 KM
+1ST OWNER
+PETROL
+KA-51",CLIMBER 1.0 (O) DUAL TONEManual,"₹5,14,600
+₹5,57,000","Bellahalli, Bengaluru"
+438,2019 Renault Kwid,"52,231 KM
+1ST OWNER
+PETROL
+KA-13",CLIMBER 1.0Manual,"₹4,17,000
+₹4,50,000","Bellahalli, Bengaluru"
+439,2021 Hyundai NEW I20,"14,951 KM
+1ST OWNER
+PETROL
+KA-05",ASTA (O) 1.0 TURBO GDI DCTAutomatic,"₹10,87,000
+₹11,54,000","Bellahalli, Bengaluru"
+440,2013 Hyundai i10,"91,279 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2 ATAutomatic,"₹3,49,000
+₹3,74,000","Horamavu Agara Road, Bengaluru"
+441,2016 Maruti Celerio,"76,039 KM
+2ND OWNER
+PETROL
+KA-01",VXI AMTAutomatic,"₹4,16,000
+₹4,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+442,2020 Tata Tiago,"24,357 KM
+1ST OWNER
+PETROL
+KA-05",XZ PETROLManual,"₹6,51,000
+₹6,83,000","Horamavu Agara Road, Bengaluru"
+443,2016 Maruti Baleno,"76,794 KM
+1ST OWNER
+PETROL
+KA-01",DELTA PETROL 1.2Manual,"₹6,30,000
+₹6,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+444,2011 Maruti Wagon R 1.0,"1,21,403 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹2,68,000
+₹2,83,000","Bellahalli, Bengaluru"
+445,2018 Hyundai Grand i10,"17,190 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA 1.2 KAPPA VTVTManual,"₹5,56,000
+₹6,01,000","Bellahalli, Bengaluru"
+446,2017 Maruti IGNIS,"16,202 KM
+1ST OWNER
+PETROL
+KA-03",DELTA 1.2 AMTAutomatic,"₹6,11,000
+₹6,44,000","Horamavu Agara Road, Bengaluru"
+447,2012 Honda Brio,"69,210 KM
+1ST OWNER
+PETROL
+KA-01",S MTManual,"₹3,38,000
+₹3,67,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+448,2015 Maruti Swift,"85,038 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹5,22,000
+₹5,68,000","Bellahalli, Bengaluru"
+449,2016 Maruti Baleno,"61,263 KM
+1ST OWNER
+DIESEL
+KA-05",ALPHA DIESEL 1.3Manual,"₹7,49,000
+₹7,99,000","Horamavu Agara Road, Bengaluru"
+450,2014 Hyundai Grand i10,"1,24,340 KM
+2ND OWNER
+PETROL
+KA-51",ASTA 1.2 KAPPA VTVTManual,"₹3,63,000
+₹4,36,000","Bellahalli, Bengaluru"
+451,2021 Maruti Swift,"12,983 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹7,53,000
+₹7,85,000","Bellahalli, Bengaluru"
+452,2017 Maruti IGNIS,"47,488 KM
+2ND OWNER
+PETROL
+KA-04",ZETA 1.2 AMTAutomatic,"₹5,57,000
+₹6,24,000","Bellahalli, Bengaluru"
+453,2015 Maruti Celerio,"57,521 KM
+1ST OWNER
+PETROL
+KA-42",ZXIManual,"₹4,41,000
+₹4,74,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+454,2016 Honda Jazz,"56,814 KM
+1ST OWNER
+PETROL
+KA-03",1.2L I-VTEC SVManual,"₹5,38,000
+₹5,68,000","Horamavu Agara Road, Bengaluru"
+455,2016 Honda Jazz,"65,072 KM
+1ST OWNER
+PETROL
+KA-01",1.2 VX I-VTECHManual,"₹6,24,000
+₹7,57,000","Bellahalli, Bengaluru"
+456,2019 Hyundai GRAND I10 NIOS,"27,937 KM
+1ST OWNER
+PETROL
+KA-41",SPORTZ 1.2 KAPPA VTVTManual,"₹6,52,000
+₹7,02,000",Sonnappanahalli
+457,2022 Maruti Baleno,"20,973 KM
+1ST OWNER
+PETROL
+KA-03",ALPHA 1.2 AGSAutomatic,"₹9,48,000
+₹9,95,000",Sonnappanahalli
+458,2017 Hyundai Grand i10,"65,730 KM
+2ND OWNER
+PETROL
+KA-06",SPORTZ (O) 1.2 KAPPA VTVTManual,"₹5,24,000
+₹5,67,000","Horamavu Agara Road, Bengaluru"
+459,2021 Maruti Alto,"21,104 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,08,000
+₹4,57,000","Hosur Road, Singasandra, Bengaluru"
+460,2015 Hyundai Elite i20,"54,154 KM
+1ST OWNER
+PETROL
+KA-01",ASTA 1.2Manual,"₹6,03,000
+₹6,93,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+461,2021 Renault Kwid,"23,628 KM
+1ST OWNER
+PETROL
+KA-09",RXL 1.0 AMTAutomatic,"₹5,15,000
+₹5,38,000","Horamavu Agara Road, Bengaluru"
+462,2017 Hyundai Grand i10,"57,176 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2 KAPPA VTVTManual,"₹5,48,000
+₹6,02,000","Horamavu Agara Road, Bengaluru"
+463,2015 Maruti Wagon R 1.0,"70,067 KM
+2ND OWNER
+PETROL
+KA-13",VXIManual,"₹3,68,000
+₹3,83,000","Bellahalli, Bengaluru"
+464,2015 Maruti Celerio,"99,579 KM
+2ND OWNER
+PETROL
+KA-04",ZXI AMTAutomatic,"₹3,97,000
+₹4,69,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+465,2017 Honda Jazz,"28,117 KM
+2ND OWNER
+PETROL
+KA-02",1.2L I-VTEC V ATAutomatic,"₹6,90,000
+₹7,51,000","Bellahalli, Bengaluru"
+466,2016 Hyundai Elite i20,"46,431 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹7,02,300
+₹7,35,000","Horamavu Agara Road, Bengaluru"
+467,2020 Datsun Redi Go,"4,512 KM
+1ST OWNER
+PETROL
+KA-01",T(O) 1.0 AMTAutomatic,"₹5,21,000","Hosur Road, Singasandra, Bengaluru"
+468,2014 Maruti Alto 800,"29,281 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹2,80,000
+₹3,27,000","Hosur Road, Singasandra, Bengaluru"
+469,2017 Maruti Baleno,"49,174 KM
+1ST OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹6,95,000
+₹7,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+470,2017 Hyundai Elite i20,"43,083 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2Manual,"₹6,16,000
+₹7,07,000","Bellahalli, Bengaluru"
+471,2017 Hyundai Grand i10,"33,623 KM
+2ND OWNER
+PETROL
+KA-04",SPORTZ (O) 1.2 KAPPA VTVTManual,"₹5,11,000
+₹5,62,000","Bellahalli, Bengaluru"
+472,2020 Maruti Baleno,"15,123 KM
+1ST OWNER
+PETROL
+KA-03",ZETA CVT PETROL 1.2Automatic,"₹8,17,000
+₹8,36,000","Bellahalli, Bengaluru"
+473,2021 Renault Kwid,"71,306 KM
+1ST OWNER
+PETROL
+KA-02",RXT 1.0 (O)Manual,"₹4,50,000
+₹4,86,000","Bellahalli, Bengaluru"
+474,2013 Maruti Swift,"57,770 KM
+1ST OWNER
+PETROL
+KA-05",ZXIManual,"₹4,92,000
+₹5,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+475,2019 Maruti Swift,"70,314 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹6,25,000
+₹6,98,000","Bellahalli, Bengaluru"
+476,2021 Renault Kiger,"7,598 KM
+1ST OWNER
+PETROL
+KA-03",RXZ TURBO CVTAutomatic,"₹9,66,000
+₹11,10,000","Hosur Road, Singasandra, Bengaluru"
+477,2017 Hyundai Elite i20,"62,621 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2Manual,"₹6,62,000
+₹7,01,000","Horamavu Agara Road, Bengaluru"
+478,2015 Maruti Swift,"84,877 KM
+1ST OWNER
+DIESEL
+KA-01",VDI ABSManual,"₹6,16,000
+₹6,36,000","Bellahalli, Bengaluru"
+479,2021 Renault Kwid,"26,755 KM
+1ST OWNER
+PETROL
+KA-19",RXT 1.0 AMT (O)Automatic,"₹5,33,000
+₹5,64,000","Horamavu Agara Road, Bengaluru"
+480,2017 Honda Jazz,"50,359 KM
+1ST OWNER
+PETROL
+KA-04",1.2L I-VTEC V ATAutomatic,"₹6,08,000
+₹7,09,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+481,2014 Maruti Alto 800,"37,510 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹3,03,000
+₹3,24,000","Hosur Road, Singasandra, Bengaluru"
+482,2021 Renault Kiger,"21,929 KM
+2ND OWNER
+PETROL
+KA-51",RXZ CVT 1.0 TURBO DUAL TONEAutomatic,"₹8,95,000
+₹11,77,000","Hosur Road, Singasandra, Bengaluru"
+483,2017 Hyundai Elite i20,"64,235 KM
+2ND OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹6,15,000
+₹7,18,000","Bellahalli, Bengaluru"
+484,2017 Hyundai Grand i10,"11,268 KM
+2ND OWNER
+PETROL
+KA-53",ASTA 1.2 KAPPA VTVTManual,"₹6,32,000
+₹6,68,000",Sonnappanahalli
+485,2015 Hyundai i20 Active,"68,152 KM
+1ST OWNER
+DIESEL
+KA-51",1.4 SXManual,"₹6,93,000
+₹7,22,000","Horamavu Agara Road, Bengaluru"
+486,2016 Hyundai Elite i20,"58,715 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹6,85,000
+₹7,18,000","Bellahalli, Bengaluru"
+487,2018 Maruti Swift,"28,548 KM
+1ST OWNER
+PETROL
+KA-01",VXIManual,"₹6,76,000
+₹6,88,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+488,2020 Maruti Swift,"64,086 KM
+1ST OWNER
+PETROL
+KA-04",VXI AMTAutomatic,"₹7,05,000","Horamavu Agara Road, Bengaluru"
+489,2015 Hyundai i10,"76,938 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.1Manual,"₹3,88,000
+₹4,23,000","Hosur Road, Singasandra, Bengaluru"
+490,2018 Hyundai Grand i10,"34,780 KM
+2ND OWNER
+PETROL
+KA-04",MAGNA 1.2 KAPPA VTVTManual,"₹4,96,000
+₹5,53,000","Bellahalli, Bengaluru"
+491,2016 Honda Jazz,"60,223 KM
+2ND OWNER
+PETROL
+KA-03",1.2L I-VTEC S ATAutomatic,"₹5,52,300
+₹6,23,000","Hosur Road, Singasandra, Bengaluru"
+492,2016 Maruti Baleno,"39,959 KM
+1ST OWNER
+PETROL
+KA-01",ZETA PETROL 1.2Manual,"₹6,94,000
+₹7,14,000","GT World Mall, Bengaluru"
+493,2013 Maruti Alto 800,"48,444 KM
+1ST OWNER
+PETROL
+KA-36",VXIManual,"₹2,64,000
+₹3,00,000","Bellahalli, Bengaluru"
+494,2020 Hyundai GRAND I10 NIOS,"32,093 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ AMT 1.2 KAPPA VTVTAutomatic,"₹7,16,000
+₹7,65,000","Hosur Road, Singasandra, Bengaluru"
+495,2010 Maruti Alto K10,"54,671 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹2,28,200","Bellahalli, Bengaluru"
+496,2015 Maruti Celerio,"33,279 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹4,60,000
+₹4,84,000","GT World Mall, Bengaluru"
+497,2018 Hyundai Grand i10,"53,576 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ AT 1.2 KAPPA VTVTAutomatic,"₹5,94,000
+₹6,80,000","Horamavu Agara Road, Bengaluru"
+498,2017 Hyundai Grand i10,"35,886 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ (O) 1.2 KAPPA VTVTManual,"₹5,41,000
+₹5,85,000","Hosur Road, Singasandra, Bengaluru"
+499,2016 Maruti Celerio,"66,596 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMT (O)Automatic,"₹4,50,000
+₹4,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+500,2010 Maruti Alto K10,"41,987 KM
+1ST OWNER
+PETROL
+KA-25",VXIManual,"₹2,28,650
+₹2,41,000","Bellahalli, Bengaluru"
+501,2016 Honda Brio,"65,453 KM
+1ST OWNER
+PETROL
+KA-01",S MTManual,"₹4,24,000
+₹4,85,000","Bellahalli, Bengaluru"
+502,2015 Honda Brio,"96,198 KM
+1ST OWNER
+PETROL
+KA-04",S MTManual,"₹3,59,000
+₹4,49,000","Horamavu Agara Road, Bengaluru"
+503,2012 Maruti Swift,"98,752 KM
+2ND OWNER
+DIESEL
+KA-04",VDIManual,"₹4,62,000
+₹4,80,000","Bellahalli, Bengaluru"
+504,2016 Maruti Baleno,"36,184 KM
+2ND OWNER
+PETROL
+KA-53",ZETA PETROL 1.2Manual,"₹7,14,000","Hosur Road, Singasandra, Bengaluru"
+505,2012 Honda Brio,"90,802 KM
+1ST OWNER
+PETROL
+KA-25",S MTManual,"₹3,45,000
+₹3,81,000","Bellahalli, Bengaluru"
+506,2014 Hyundai Grand i10,"1,05,850 KM
+2ND OWNER
+CNG
+KA-53",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,06,000
+₹4,37,000","GT World Mall, Bengaluru"
+507,2016 Maruti Alto 800,"28,925 KM
+2ND OWNER
+PETROL
+KA-04",VXIManual,"₹3,15,000
+₹3,55,000","Bellahalli, Bengaluru"
+508,2017 Hyundai Grand i10,"21,220 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹5,27,000
+₹5,67,000","Bellahalli, Bengaluru"
+509,2012 Hyundai i10,"63,206 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2Manual,"₹3,41,000
+₹3,63,000",Sonnappanahalli
+510,2018 Honda Brio,"43,457 KM
+1ST OWNER
+PETROL
+KA-03",S MTManual,"₹5,05,000
+₹5,26,000","Bellahalli, Bengaluru"
+511,2017 Maruti Baleno,"63,359 KM
+2ND OWNER
+PETROL
+KA-01",ZETA PETROL 1.2Manual,"₹6,55,000
+₹7,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+512,2017 Maruti Swift,"42,809 KM
+1ST OWNER
+PETROL
+KA-05",ZXIManual,"₹6,68,000
+₹6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+513,2018 Hyundai Grand i10,"15,147 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹6,03,000
+₹6,27,000","Hosur Road, Singasandra, Bengaluru"
+514,2018 Maruti Swift,"26,007 KM
+1ST OWNER
+PETROL
+KA-68",VXI AMTAutomatic,"₹6,63,000
+₹7,05,000","Bellahalli, Bengaluru"
+515,2021 Maruti Swift,"13,058 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹7,67,000
+₹7,81,000","GT World Mall, Bengaluru"
+516,2021 Renault Kwid,"18,707 KM
+1ST OWNER
+PETROL
+KA-55",RXT 1.0 AMT (O)Automatic,"₹5,19,000
+₹5,63,000","Bellahalli, Bengaluru"
+517,2016 Tata Tiago,"40,150 KM
+1ST OWNER
+PETROL
+KA-05",XZ PETROLManual,"₹4,97,000
+₹5,43,000","Bellahalli, Bengaluru"
+518,2017 Maruti Alto 800,"47,619 KM
+2ND OWNER
+PETROL
+KA-03",LXIManual,"₹3,28,000
+₹3,46,000","Bellahalli, Bengaluru"
+519,2018 Maruti Celerio,"37,270 KM
+2ND OWNER
+PETROL
+KA-40",ZXI (O)Manual,"₹5,11,250
+₹5,44,000","GT World Mall, Bengaluru"
+520,2019 Hyundai NEW SANTRO,"25,607 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ MTManual,"₹5,27,000
+₹5,72,000","Bellahalli, Bengaluru"
+521,2016 Honda Jazz,"90,773 KM
+2ND OWNER
+PETROL
+KA-05",1.2L I-VTEC VManual,"₹5,55,000
+₹6,13,000","GT World Mall, Bengaluru"
+522,2017 Hyundai Grand i10,"23,513 KM
+2ND OWNER
+PETROL
+KA-02",SPORTZ (O) 1.2 KAPPA VTVTManual,"₹5,30,000
+₹5,82,000","Bellahalli, Bengaluru"
+523,2017 Maruti Baleno,"39,481 KM
+2ND OWNER
+PETROL
+KA-03",DELTA CVT PETROL 1.2Automatic,"₹7,22,000
+₹7,58,000","Bellahalli, Bengaluru"
+524,2019 Maruti S PRESSO,"51,395 KM
+1ST OWNER
+PETROL
+KA-42",VXI+Manual,"₹4,26,000
+₹5,03,000","Bellahalli, Bengaluru"
+525,2017 Honda Jazz,"40,073 KM
+2ND OWNER
+PETROL
+KA-03",1.2L I-VTEC VManual,"₹6,15,000
+₹7,26,000","Bellahalli, Bengaluru"
+526,2017 Maruti Baleno,"55,127 KM
+1ST OWNER
+PETROL
+KA-03",DELTA CVT PETROL 1.2Automatic,"₹6,50,000
+₹6,76,000","Hosur Road, Singasandra, Bengaluru"
+527,2019 Maruti Baleno,"34,526 KM
+1ST OWNER
+PETROL
+KA-06",ZETA PETROL 1.2Manual,"₹7,64,000
+₹8,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+528,2016 Maruti Baleno,"50,318 KM
+1ST OWNER
+PETROL
+KA-05",DELTA PETROL 1.2Manual,"₹6,12,000
+₹6,41,000","Bellahalli, Bengaluru"
+529,2014 Maruti Swift,"68,306 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,71,000
+₹5,40,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+530,2021 Maruti Baleno,"6,930 KM
+1ST OWNER
+PETROL
+KA-53",ZETA CVT PETROL 1.2Automatic,"₹8,85,000
+₹8,96,000","Bellahalli, Bengaluru"
+531,2016 Maruti Baleno,"44,253 KM
+2ND OWNER
+PETROL
+KA-53",ZETA PETROL 1.2Manual,"₹6,21,000
+₹6,98,000","Bellahalli, Bengaluru"
+532,2017 Maruti Wagon R 1.0,"58,659 KM
+1ST OWNER
+PETROL
+KA-52",VXIManual,"₹4,57,000
+₹4,63,000","Horamavu Agara Road, Bengaluru"
+533,2017 Honda Jazz,"70,602 KM
+1ST OWNER
+PETROL
+KA-02",1.2 V ATAutomatic,"₹6,19,000
+₹7,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+534,2019 Hyundai NEW SANTRO,"31,158 KM
+1ST OWNER
+PETROL
+KA-02",SPORTZ AMTAutomatic,"₹5,61,000
+₹5,93,000","Horamavu Agara Road, Bengaluru"
+535,2015 Maruti Swift,"76,485 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹5,17,000
+₹5,77,000","Bellahalli, Bengaluru"
+536,2017 Maruti Celerio,"34,801 KM
+1ST OWNER
+PETROL
+KA-05",ZXI AMT (O)Automatic,"₹5,17,000
+₹5,66,000","Horamavu Agara Road, Bengaluru"
+537,2013 Hyundai i20,"40,344 KM
+1ST OWNER
+PETROL
+KA-03",ASTA 1.2Manual,"₹4,79,000
+₹5,06,000",Sonnappanahalli
+538,2019 Hyundai i20 Active,"15,347 KM
+1ST OWNER
+PETROL
+KA-03",1.2 SXManual,"₹8,20,000","GT World Mall, Bengaluru"
+539,2021 Maruti Swift,"29,905 KM
+1ST OWNER
+PETROL
+KA-59",VXIManual,"₹7,30,000
+₹7,58,000","Bellahalli, Bengaluru"
+540,2018 Hyundai Grand i10,"34,090 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹5,69,000
+₹6,13,000","Bellahalli, Bengaluru"
+541,2021 Maruti Swift,"14,089 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹7,37,000
+₹7,85,000","Bellahalli, Bengaluru"
+542,2017 Honda Jazz,"69,054 KM
+1ST OWNER
+PETROL
+KA-05",1.2L I-VTEC V ATAutomatic,"₹6,16,000
+₹7,05,000","Horamavu Agara Road, Bengaluru"
+543,2017 Maruti Alto K10,"29,094 KM
+1ST OWNER
+PETROL
+KA-09",VXIManual,"₹3,69,000
+₹4,11,000","Horamavu Agara Road, Bengaluru"
+544,2018 Maruti Celerio,"32,112 KM
+2ND OWNER
+PETROL
+KA-04",ZXIManual,"₹4,91,000
+₹5,27,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+545,2017 Maruti Baleno,"26,031 KM
+1ST OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹7,14,000","Bellahalli, Bengaluru"
+546,2015 Honda Jazz,"74,342 KM
+2ND OWNER
+PETROL
+KA-03",1.2L I-VTEC V ATAutomatic,"₹5,65,000
+₹6,03,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+547,2015 Maruti Swift,"68,656 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹5,39,000
+₹5,99,000","Hosur Road, Singasandra, Bengaluru"
+548,2018 Honda Jazz,"71,165 KM
+2ND OWNER
+PETROL
+KA-04",1.2L I-VTEC VX CVTAutomatic,"₹6,04,000
+₹6,90,000","Horamavu Agara Road, Bengaluru"
+549,2015 Hyundai Grand i10,"50,516 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹4,69,000
+₹5,30,000","Hosur Road, Singasandra, Bengaluru"
+550,2021 Maruti Swift,"11,945 KM
+1ST OWNER
+PETROL
+KA-53",VXI AMTAutomatic,"₹7,79,000
+₹7,91,000",Sonnappanahalli
+551,2014 Maruti Swift,"56,661 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹5,15,000","Horamavu Agara Road, Bengaluru"
+552,2017 Maruti Celerio,"22,479 KM
+2ND OWNER
+PETROL
+KA-05",ZXI AMT (O)Automatic,"₹5,48,000
+₹5,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+553,2018 Hyundai Grand i10,"36,977 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ 1.2 KAPPA VTVTManual,"₹5,48,000
+₹5,86,000","Hosur Road, Singasandra, Bengaluru"
+554,2015 Hyundai Grand i10,"50,510 KM
+3RD OWNER
+PETROL
+KA-04",SPORTZ 1.2 KAPPA VTVTManual,"₹4,31,000
+₹4,75,000","Bellahalli, Bengaluru"
+555,2013 Hyundai Grand i10,"81,805 KM
+2ND OWNER
+DIESEL
+KA-04",MAGNA 1.1 CRDIManual,"₹4,18,000
+₹4,37,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+556,2015 Maruti Celerio,"18,294 KM
+1ST OWNER
+PETROL
+KA-03",VXI AMTAutomatic,"₹4,73,000
+₹4,98,000","Horamavu Agara Road, Bengaluru"
+557,2018 Hyundai NEW SANTRO,"47,418 KM
+1ST OWNER
+PETROL
+KA-41",ASTA MTManual,"₹5,67,000
+₹5,89,000","Bellahalli, Bengaluru"
+558,2016 Maruti Celerio,"25,414 KM
+1ST OWNER
+PETROL
+KA-53",ZXI AMTAutomatic,"₹5,24,000
+₹5,41,000","Bellahalli, Bengaluru"
+559,2020 Maruti S PRESSO,"3,803 KM
+2ND OWNER
+PETROL
+KA-01",VXI PLUS AMTAutomatic,"₹5,18,000
+₹5,60,000","Bellahalli, Bengaluru"
+560,2022 Maruti S PRESSO,"17,888 KM
+1ST OWNER
+PETROL
+KA-15",VXI PLUSManual,"₹5,13,000
+₹6,05,000","Bellahalli, Bengaluru"
+561,2021 Renault Kiger,"14,463 KM
+1ST OWNER
+PETROL
+KA-03",RXZ 1.0 MTManual,"₹9,03,000","Bellahalli, Bengaluru"
+562,2021 Hyundai NEW I20,"19,053 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.0 GDI TURBO DCTAutomatic,"₹10,30,000
+₹10,56,000",Sonnappanahalli
+563,2015 Hyundai Elite i20,"43,371 KM
+2ND OWNER
+PETROL
+KA-05",ASTA 1.2Manual,"₹6,13,000
+₹6,52,000","Bellahalli, Bengaluru"
+564,2017 Maruti Swift,"64,917 KM
+2ND OWNER
+PETROL
+KA-02",VXI OManual,"₹6,16,000","Bellahalli, Bengaluru"
+565,2013 Hyundai i10,"47,333 KM
+1ST OWNER
+PETROL
+KA-04",ERA 1.1Manual,"₹3,38,000
+₹3,53,000",Sonnappanahalli
+566,2015 Hyundai Elite i20,"38,510 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹6,60,000
+₹6,79,000","Hosur Road, Singasandra, Bengaluru"
+567,2012 Honda Brio,"64,655 KM
+1ST OWNER
+PETROL
+KA-05",S MTManual,"₹3,38,000
+₹3,76,000","Bellahalli, Bengaluru"
+568,2017 Maruti Alto 800,"48,871 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹3,07,000
+₹3,34,000","Bellahalli, Bengaluru"
+569,2016 Maruti Baleno,"40,623 KM
+1ST OWNER
+PETROL
+KA-05",ZETA PETROL 1.2Manual,"₹6,75,000
+₹7,10,000","Bellahalli, Bengaluru"
+570,2018 Maruti Swift,"49,578 KM
+1ST OWNER
+PETROL
+KA-41",VXI AMTAutomatic,"₹6,73,800
+₹7,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+571,2010 Maruti Wagon R 1.0,"1,03,549 KM
+2ND OWNER
+PETROL
+KA-03",VXIManual,"₹2,69,000
+₹2,93,000","Bellahalli, Bengaluru"
+572,2015 Honda Brio,"65,394 KM
+1ST OWNER
+PETROL
+KA-03",S MTManual,"₹3,89,000
+₹4,80,000","Hosur Road, Singasandra, Bengaluru"
+573,2021 Renault Kiger,"48,938 KM
+2ND OWNER
+PETROL
+KA-03",RXZ TURBO CVTAutomatic,"₹9,31,000
+₹10,34,000","Bellahalli, Bengaluru"
+574,2019 Maruti Baleno,"30,270 KM
+1ST OWNER
+PETROL
+KA-04",ALPHA CVT PETROL 1.2Automatic,"₹8,03,000
+₹8,45,000","Bellahalli, Bengaluru"
+575,2017 Hyundai Elite i20,"77,593 KM
+1ST OWNER
+PETROL
+KA-20",SPORTZ 1.2Manual,"₹6,29,000
+₹6,81,000","GT World Mall, Bengaluru"
+576,2012 Maruti Swift,"78,622 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹4,44,000
+₹4,77,000",Sonnappanahalli
+577,2017 Hyundai Grand i10,"62,803 KM
+2ND OWNER
+PETROL
+KA-05",SPORTZ (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,69,000
+₹6,26,000","Bellahalli, Bengaluru"
+578,2015 Maruti Celerio,"44,385 KM
+1ST OWNER
+PETROL
+KA-01",VXIManual,"₹4,33,000
+₹4,56,000",Sonnappanahalli
+579,2015 Maruti Celerio,"42,137 KM
+1ST OWNER
+PETROL
+KA-25",VXI AMTAutomatic,"₹4,22,000
+₹4,51,000","Bellahalli, Bengaluru"
+580,2020 Maruti Celerio,"36,085 KM
+2ND OWNER
+PETROL
+KA-51",ZXI (O)Manual,"₹5,32,000
+₹5,58,000","Bellahalli, Bengaluru"
+581,2021 Renault Kwid,"14,191 KM
+1ST OWNER
+PETROL
+KA-02",CLIMBER 1.0 AMT (O)Automatic,"₹5,64,000
+₹6,09,000","GT World Mall, Bengaluru"
+582,2019 Maruti S PRESSO,"53,125 KM
+1ST OWNER
+PETROL
+KA-51",VXI+Manual,"₹4,14,000
+₹4,79,000","Bellahalli, Bengaluru"
+583,2014 Maruti Celerio,"88,213 KM
+2ND OWNER
+PETROL
+KA-50",VXI AMTAutomatic,"₹3,79,000
+₹3,88,000","Hosur Road, Singasandra, Bengaluru"
+584,2016 Tata Tiago,"64,492 KM
+1ST OWNER
+PETROL
+KA-01",XZ PETROLManual,"₹4,84,000
+₹5,22,000","Hosur Road, Singasandra, Bengaluru"
+585,2020 Tata ALTROZ,"48,673 KM
+1ST OWNER
+DIESEL
+KA-05",XZ DIESELManual,"₹8,77,000
+₹8,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+586,2017 Maruti Baleno,"33,850 KM
+2ND OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹7,04,000
+₹7,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+587,2016 Maruti Celerio,"36,607 KM
+2ND OWNER
+PETROL
+KA-03",ZXI AMTAutomatic,"₹4,88,000
+₹5,28,000","Bellahalli, Bengaluru"
+588,2018 Hyundai Grand i10,"25,971 KM
+1ST OWNER
+PETROL
+KA-03",SPORTZ 1.2 KAPPA VTVTManual,"₹5,99,000
+₹6,23,000","Horamavu Agara Road, Bengaluru"
+589,2013 Honda Brio,"38,197 KM
+1ST OWNER
+PETROL
+KA-03",S MTManual,"₹4,02,000
+₹4,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+590,2016 Maruti Celerio,"69,565 KM
+1ST OWNER
+PETROL
+KA-04",ZXI AMTAutomatic,"₹4,67,500
+₹5,02,000","Bellahalli, Bengaluru"
+591,2020 Hyundai GRAND I10 NIOS,"9,414 KM
+1ST OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹6,70,000
+₹7,15,000","GT World Mall, Bengaluru"
+592,2017 Hyundai Grand i10,"35,897 KM
+2ND OWNER
+PETROL
+KA-01",SPORTZ AT 1.2 KAPPA VTVTAutomatic,"₹5,82,000
+₹6,45,000","Horamavu Agara Road, Bengaluru"
+593,2015 Maruti Swift,"50,888 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹5,93,000
+₹6,23,000","GT World Mall, Bengaluru"
+594,2015 Maruti Celerio,"39,613 KM
+1ST OWNER
+PETROL
+KA-04",ZXIManual,"₹4,87,000","Horamavu Agara Road, Bengaluru"
+595,2022 Hyundai NEW I20 N LINE,"19,902 KM
+2ND OWNER
+PETROL
+KA-01",N8 1.0 TURBO GDI IMTManual,"₹11,77,000
+₹12,28,000","Horamavu Agara Road, Bengaluru"
+596,2015 Honda Brio,"73,916 KM
+2ND OWNER
+PETROL
+KA-64",S MTManual,"₹3,62,000
+₹4,08,000","Bellahalli, Bengaluru"
+597,2019 Hyundai NEW SANTRO,"35,711 KM
+1ST OWNER
+PETROL
+KA-04",SPORTZ MTManual,"₹5,41,000
+₹5,75,000",Sonnappanahalli
+598,2016 Maruti Celerio,"58,198 KM
+2ND OWNER
+PETROL
+KA-51",ZXI AMTAutomatic,"₹4,88,000
+₹5,19,000","Bellahalli, Bengaluru"
+599,2018 Maruti Swift,"56,410 KM
+1ST OWNER
+PETROL
+KA-50",VXI AMTAutomatic,"₹6,42,000
+₹7,05,000","Horamavu Agara Road, Bengaluru"
+600,2020 Maruti Alto,"73,140 KM
+2ND OWNER
+PETROL
+KA-09",VXI PLUSManual,"₹3,89,000
+₹4,20,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+601,2017 Maruti Celerio,"81,849 KM
+1ST OWNER
+PETROL
+KA-05",VXI (O)Manual,"₹4,51,000
+₹4,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+602,2014 Hyundai Grand i10,"67,990 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA VTVTManual,"₹4,26,000
+₹4,86,000","Horamavu Agara Road, Bengaluru"
+603,2019 Maruti S PRESSO,"15,871 KM
+1ST OWNER
+PETROL
+KA-01",VXI+Manual,"₹4,47,000
+₹4,92,000","Horamavu Agara Road, Bengaluru"
+604,2014 Hyundai Elite i20,"1,08,913 KM
+2ND OWNER
+DIESEL
+KA-02",SPORTZ 1.4 CRDIManual,"₹5,78,000
+₹5,86,000","Hosur Road, Singasandra, Bengaluru"
+605,2015 Hyundai Grand i10,"72,097 KM
+2ND OWNER
+PETROL
+KA-04",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,97,000
+₹5,44,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+606,2016 Honda Jazz,"68,576 KM
+1ST OWNER
+PETROL
+KA-02",1.2L I-VTEC VManual,"₹5,91,000
+₹6,27,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+607,2017 Maruti Wagon R 1.0,"17,386 KM
+2ND OWNER
+PETROL
+KA-02",VXI AMTAutomatic,"₹5,13,000",Sonnappanahalli
+608,2015 Maruti Swift,"67,245 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹5,39,000
+₹5,89,000","GT World Mall, Bengaluru"
+609,2017 Hyundai Grand i10,"28,593 KM
+1ST OWNER
+PETROL
+KA-01",ASTA 1.2 KAPPA VTVTManual,"₹5,99,000
+₹6,58,000","Bellahalli, Bengaluru"
+610,2015 Hyundai Grand i10,"60,942 KM
+1ST OWNER
+PETROL
+KA-06",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹5,42,000
+₹5,74,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+611,2016 Maruti Baleno,"67,225 KM
+1ST OWNER
+PETROL
+KA-03",DELTA CVT PETROL 1.2Automatic,"₹6,27,000
+₹6,46,000","Horamavu Agara Road, Bengaluru"
+612,2015 Hyundai Grand i10,"46,156 KM
+1ST OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA VTVTManual,"₹4,85,000
+₹5,11,000","Bellahalli, Bengaluru"
+613,2016 Tata Tiago,"78,959 KM
+2ND OWNER
+PETROL
+KA-03",XZ PETROLManual,"₹4,61,000
+₹5,09,000","Hosur Road, Singasandra, Bengaluru"
+614,2012 Hyundai i10,"38,408 KM
+2ND OWNER
+PETROL
+KA-53",SPORTZ 1.2 ATAutomatic,"₹3,87,000
+₹4,27,000","GT World Mall, Bengaluru"
+615,2017 Maruti Baleno,"77,995 KM
+1ST OWNER
+PETROL
+KA-53",ALPHA CVT PETROL 1.2Automatic,"₹6,74,000
+₹7,92,000","Hosur Road, Singasandra, Bengaluru"
+616,2015 Hyundai Grand i10,"82,195 KM
+1ST OWNER
+PETROL
+KA-05",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,75,000
+₹4,93,000","GT World Mall, Bengaluru"
+617,2016 Maruti Celerio,"28,813 KM
+1ST OWNER
+PETROL
+KA-02",ZXI AMTAutomatic,"₹5,21,000
+₹5,41,000","Horamavu Agara Road, Bengaluru"
+618,2015 Hyundai Grand i10,"1,01,356 KM
+2ND OWNER
+PETROL
+KA-20",SPORTZ 1.2 KAPPA VTVTManual,"₹4,28,000
+₹4,88,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+619,2017 Maruti Baleno,"58,666 KM
+1ST OWNER
+PETROL
+KA-25",DELTA CVT PETROL 1.2Automatic,"₹6,74,000
+₹7,12,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+620,2019 Maruti Alto,"14,051 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹3,90,000
+₹4,49,000","Bellahalli, Bengaluru"
+621,2017 Hyundai Grand i10,"13,444 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,99,000
+₹6,57,000","Bellahalli, Bengaluru"
+622,2015 Maruti Celerio,"40,304 KM
+2ND OWNER
+PETROL
+KA-53",ZXIManual,"₹4,64,000
+₹4,87,000",Sonnappanahalli
+623,2016 Maruti Celerio,"33,371 KM
+1ST OWNER
+PETROL
+KA-41",ZXI AMTAutomatic,"₹4,89,000
+₹5,31,000","Horamavu Agara Road, Bengaluru"
+624,2011 Maruti Alto K10,"70,667 KM
+2ND OWNER
+PETROL
+KA-03",VXIManual,"₹2,45,000",Sonnappanahalli
+625,2018 Maruti Celerio,"50,731 KM
+1ST OWNER
+PETROL
+KA-01",ZXIManual,"₹4,87,000
+₹5,16,000","Hosur Road, Singasandra, Bengaluru"
+626,2015 Maruti Alto 800,"52,425 KM
+1ST OWNER
+PETROL
+KA-41",LXIManual,"₹3,12,000
+₹3,28,000",Sonnappanahalli
+627,2017 Maruti Celerio,"50,894 KM
+2ND OWNER
+PETROL
+KA-50",ZXI AMT (O)Automatic,"₹4,64,000
+₹5,09,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+628,2016 Hyundai Elite i20,"73,969 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹6,81,000
+₹7,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+629,2015 Hyundai Grand i10,"25,852 KM
+1ST OWNER
+PETROL
+KA-19",SPORTZ 1.2 KAPPA VTVTManual,"₹5,20,000
+₹5,67,000",Sonnappanahalli
+630,2016 Honda Jazz,"78,782 KM
+1ST OWNER
+PETROL
+KA-51",1.2L I-VTEC VManual,"₹5,35,000
+₹6,05,000","Bellahalli, Bengaluru"
+631,2015 Maruti Celerio,"1,22,048 KM
+2ND OWNER
+PETROL
+KA-50",VXIManual,"₹3,98,000
+₹4,09,000","GT World Mall, Bengaluru"
+632,2019 Maruti Swift,"48,168 KM
+1ST OWNER
+PETROL
+KA-51",VXI AMTAutomatic,"₹6,77,000
+₹7,05,000","Horamavu Agara Road, Bengaluru"
+633,2017 Honda Jazz,"79,575 KM
+1ST OWNER
+PETROL
+KA-01",1.2L I-VTEC V ATAutomatic,"₹6,29,000
+₹6,68,000","Bellahalli, Bengaluru"
+634,2015 Hyundai Grand i10,"4,032 KM
+2ND OWNER
+PETROL
+KA-01",SPORTZ 1.2 KAPPA VTVTManual,"₹5,15,000
+₹5,52,000","GT World Mall, Bengaluru"
+635,2015 Hyundai Grand i10,"36,459 KM
+2ND OWNER
+PETROL
+KA-03",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹5,36,000
+₹5,74,000","Bellahalli, Bengaluru"
+636,2016 Maruti Wagon R 1.0,"52,356 KM
+1ST OWNER
+PETROL
+KA-05",VXI OPTManual,"₹4,77,000
+₹4,98,000","GT World Mall, Bengaluru"
+637,2022 Maruti S PRESSO,"6,922 KM
+1ST OWNER
+PETROL
+KA-51",VXI+Manual,"₹5,56,000
+₹6,06,000","GT World Mall, Bengaluru"
+638,2017 Honda Jazz,"67,633 KM
+1ST OWNER
+PETROL
+KA-20",1.2L I-VTEC VManual,"₹6,12,000
+₹7,53,000","Bellahalli, Bengaluru"
+639,2017 Maruti Baleno,"60,624 KM
+2ND OWNER
+PETROL
+KA-06",ZETA PETROL 1.2Manual,"₹6,75,000
+₹7,01,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+640,2021 Tata Tiago,"35,097 KM
+1ST OWNER
+PETROL
+KA-06",XZ PLUS DUAL TONE PETROLManual,"₹7,18,000
+₹7,48,000","Hosur Road, Singasandra, Bengaluru"
+641,2018 Maruti Swift,"25,537 KM
+1ST OWNER
+PETROL
+KA-01",VXI AMTAutomatic,"₹6,72,000
+₹7,05,000","Bellahalli, Bengaluru"
+642,2021 Maruti Alto,"16,679 KM
+1ST OWNER
+PETROL
+KA-05",VXI PLUSManual,"₹4,33,000
+₹4,79,000","Horamavu Agara Road, Bengaluru"
+643,2021 Maruti Baleno,"9,358 KM
+1ST OWNER
+PETROL
+KA-51",ALPHA CVT PETROL 1.2Automatic,"₹9,60,000
+₹10,10,000","Bellahalli, Bengaluru"
+644,2016 Maruti Celerio,"17,444 KM
+1ST OWNER
+PETROL
+KA-04",ZXI AMTAutomatic,"₹5,15,000
+₹5,41,000","Bellahalli, Bengaluru"
+645,2021 Maruti Baleno,"8,548 KM
+1ST OWNER
+PETROL
+KA-02",ALPHA CVT PETROL 1.2Automatic,"₹9,42,000
+₹9,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+646,2016 Maruti Baleno,"89,837 KM
+1ST OWNER
+DIESEL
+KA-04",ALPHA DIESEL 1.3Manual,"₹7,24,000
+₹7,60,000",Sonnappanahalli
+647,2016 Maruti Baleno,"63,837 KM
+2ND OWNER
+PETROL
+KA-05",DELTA CVT PETROL 1.2Automatic,"₹6,44,000
+₹6,88,000","Bellahalli, Bengaluru"
+648,2018 Maruti Celerio,"41,594 KM
+1ST OWNER
+PETROL
+KA-05",ZXI DManual,"₹5,01,000
+₹5,30,000","Bellahalli, Bengaluru"
+649,2020 Maruti Baleno,"9,724 KM
+1ST OWNER
+PETROL
+KA-02",ALPHA CVT PETROL 1.2Automatic,"₹9,24,000
+₹9,64,000","Horamavu Agara Road, Bengaluru"
+650,2017 Maruti Baleno,"84,422 KM
+1ST OWNER
+PETROL
+KA-53",DELTA PETROL 1.2Manual,"₹5,04,000
+₹5,46,000","Bellahalli, Bengaluru"
+651,2010 Volkswagen Polo,"52,771 KM
+2ND OWNER
+PETROL
+KA-03",COMFORTLINE 1.2L PETROLManual,"₹3,35,000
+₹3,57,000","Bellahalli, Bengaluru"
+652,2018 Maruti Baleno,"60,281 KM
+2ND OWNER
+DIESEL
+KA-50",SIGMA DIESEL 1.3Manual,"₹5,74,000
+₹6,09,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+653,2011 Maruti Ritz,"75,879 KM
+2ND OWNER
+DIESEL
+KA-04",VDIManual,"₹3,32,000
+₹3,71,000","Horamavu Agara Road, Bengaluru"
+654,2017 Renault Kwid,"49,779 KM
+3RD OWNER
+PETROL
+KA-41",CLIMBER 1.0 AMTAutomatic,"₹3,58,000
+₹3,65,000","Bellahalli, Bengaluru"
+655,2011 Maruti Swift,"82,830 KM
+2ND OWNER
+PETROL
+KA-05",VXIManual,"₹3,38,000
+₹3,47,000","Bellahalli, Bengaluru"
+656,2010 Maruti Swift,"99,276 KM
+2ND OWNER
+PETROL
+KA-51",VXIManual,"₹3,19,000
+₹3,68,000","Hosur Road, Singasandra, Bengaluru"
+657,2010 Hyundai i20,"90,842 KM
+2ND OWNER
+PETROL
+KA-03",MAGNA 1.2Manual,"₹2,93,000
+₹2,98,000",Sonnappanahalli
+658,2017 Renault Kwid,"30,810 KM
+1ST OWNER
+PETROL
+KA-02",1.0 RXT 02 Anniversary EditionManual,"₹3,57,000
+₹3,64,000","Bellahalli, Bengaluru"
+659,2012 Hyundai i20,"64,958 KM
+2ND OWNER
+DIESEL
+KA-01",MAGNA (O) 1.4 CRDIManual,"₹3,57,000
+₹3,66,000","Bellahalli, Bengaluru"
+660,2017 Maruti Alto K10,"20,229 KM
+2ND OWNER
+PETROL
+KA-04",VXI OPTManual,"₹3,49,000
+₹3,84,000","Bellahalli, Bengaluru"
+661,2011 Hyundai i10,"1,03,823 KM
+1ST OWNER
+PETROL
+KA-03",ERA 1.1Manual,"₹2,25,000
+₹2,47,000","Hosur Road, Singasandra, Bengaluru"
+662,2016 Honda Jazz,"76,046 KM
+2ND OWNER
+PETROL
+KA-41",1.2 S MTManual,"₹4,78,000
+₹5,51,000","Bellahalli, Bengaluru"
+663,2015 Maruti Ritz,"40,818 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹4,47,000
+₹5,14,000","GT World Mall, Bengaluru"
+664,2022 Maruti Swift,"16,522 KM
+1ST OWNER
+PETROL
+KA-52",VXIManual,"₹7,74,000
+₹8,14,000","Hosur Road, Singasandra, Bengaluru"
+665,2014 Maruti Swift,"1,23,227 KM
+3RD OWNER
+PETROL
+KA-05",VXIManual,"₹3,92,000
+₹4,36,000","Bellahalli, Bengaluru"
+666,2015 Maruti Swift,"89,200 KM
+1ST OWNER
+PETROL
+KA-50",LXI (O)Manual,"₹4,52,000
+₹5,01,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+667,2021 Renault Kiger,"27,839 KM
+1ST OWNER
+PETROL
+KA-14",RXZ TURBO MTManual,"₹7,72,000
+₹9,30,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+668,2013 Hyundai i20,"91,716 KM
+3RD OWNER
+PETROL
+KA-53",SPORTZ 1.2Manual,"₹3,66,000
+₹3,87,000","Bellahalli, Bengaluru"
+669,2013 Maruti Swift,"29,002 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹4,81,000
+₹5,15,000","Bellahalli, Bengaluru"
+670,2018 Renault Kwid,"64,592 KM
+2ND OWNER
+PETROL
+KA-50",RXT 1.0 (O)Manual,"₹3,46,000
+₹3,53,000","Hosur Road, Singasandra, Bengaluru"
+671,2013 Maruti Zen Estilo,"38,594 KM
+1ST OWNER
+CNG
+KA-51",LXI CNGManual,"₹2,76,000
+₹2,98,000","Bellahalli, Bengaluru"
+672,2013 Hyundai i10,"30,493 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA 1.2Manual,"₹3,62,000
+₹3,86,000","Hosur Road, Singasandra, Bengaluru"
+673,2017 Tata Tiago,"45,408 KM
+1ST OWNER
+PETROL
+KA-02",XZA PETROLAutomatic,"₹4,85,000
+₹5,22,000","GT World Mall, Bengaluru"
+674,2013 Maruti Swift,"55,334 KM
+2ND OWNER
+DIESEL
+KA-01",VDIManual,"₹4,34,000
+₹5,26,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+675,2018 Datsun Redi Go,"64,500 KM
+1ST OWNER
+PETROL
+KA-10",AManual,"₹2,45,000
+₹2,76,000","Bellahalli, Bengaluru"
+676,2016 Maruti Alto K10,"65,484 KM
+3RD OWNER
+PETROL
+KA-50",VXIManual,"₹3,18,000
+₹3,26,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+677,2017 Tata Tiago,"38,063 KM
+1ST OWNER
+PETROL
+KA-04",XE PETROLManual,"₹4,19,000
+₹4,57,000","Hosur Road, Singasandra, Bengaluru"
+678,2018 Hyundai Eon,"86,198 KM
+2ND OWNER
+PETROL
+KA-02",MAGNA PLUSManual,"₹2,97,000
+₹3,76,000","Horamavu Agara Road, Bengaluru"
+679,2012 Hyundai i10,"55,805 KM
+3RD OWNER
+PETROL
+KA-05",SPORTZ 1.2Manual,"₹2,75,000
+₹3,07,000","GT World Mall, Bengaluru"
+680,2010 Hyundai i10,"41,044 KM
+1ST OWNER
+PETROL
+KA-14",MAGNA 1.2Manual,"₹2,73,000
+₹2,83,000","Bellahalli, Bengaluru"
+681,2015 Hyundai Elite i20,"26,502 KM
+2ND OWNER
+PETROL
+KA-03",SPORTZ 1.2 (O)Manual,"₹5,57,000
+₹6,24,000","Bellahalli, Bengaluru"
+682,2016 Maruti Celerio,"32,357 KM
+1ST OWNER
+PETROL
+KA-51",ZXIManual,"₹4,29,000
+₹4,67,000","GT World Mall, Bengaluru"
+683,2019 Volkswagen Polo,"43,266 KM
+2ND OWNER
+PETROL
+KA-03",TRENDLINE 1.0LManual,"₹5,68,000
+₹6,04,000",Sonnappanahalli
+684,2021 Maruti Swift,"29,850 KM
+1ST OWNER
+PETROL
+KA-51",VXIManual,"₹6,75,000
+₹7,35,000","Bellahalli, Bengaluru"
+685,2019 Maruti Swift,"44,954 KM
+1ST OWNER
+DIESEL
+KA-02",ZDI PLUS AMTAutomatic,"₹7,85,000
+₹8,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+686,2011 Toyota Etios Liva,"74,175 KM
+2ND OWNER
+PETROL
+KA-01",VXManual,"₹3,40,000
+₹3,68,000",Sonnappanahalli
+687,2010 Maruti Ritz,"91,149 KM
+2ND OWNER
+PETROL
+KA-04",VXIManual,"₹2,98,000
+₹3,23,000","Hosur Road, Singasandra, Bengaluru"
+688,2014 Hyundai Grand i10,"94,221 KM
+2ND OWNER
+PETROL
+KA-04",SPORTZ 1.2 KAPPA VTVTManual,"₹3,83,000
+₹4,24,000","Hosur Road, Singasandra, Bengaluru"
+689,2019 Renault Kwid,"31,992 KM
+1ST OWNER
+PETROL
+KA-02",RXT 0.8 (O)Manual,"₹3,63,000
+₹3,75,000","Hosur Road, Singasandra, Bengaluru"
+690,2016 Tata Tiago,"1,01,386 KM
+1ST OWNER
+PETROL
+KA-02",XE PETROLManual,"₹3,53,000
+₹3,79,000","Bellahalli, Bengaluru"
+691,2015 Maruti Baleno,"84,473 KM
+3RD OWNER
+DIESEL
+KA-20",ALPHA DIESEL 1.3Manual,"₹5,39,000
+₹6,00,000","Bellahalli, Bengaluru"
+692,2015 Honda Jazz,"92,656 KM
+2ND OWNER
+DIESEL
+KA-12",1.5L I-DTEC VXManual,"₹4,76,000
+₹5,26,000","Hosur Road, Singasandra, Bengaluru"
+693,2022 Maruti New Wagon-R,"3,084 KM
+1ST OWNER
+CNG
+KA-02",VXI CNG 1.0Manual,"₹7,02,000
+₹7,28,000","GT World Mall, Bengaluru"
+694,2014 Maruti Celerio,"28,577 KM
+3RD OWNER
+PETROL
+KA-51",VXI AMTAutomatic,"₹3,65,000
+₹4,00,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+695,2018 Maruti Baleno,"78,631 KM
+1ST OWNER
+DIESEL
+KA-05",SIGMA DIESEL 1.3Manual,"₹5,96,000
+₹6,73,000","Bellahalli, Bengaluru"
+696,2015 Maruti Swift,"77,147 KM
+3RD OWNER
+PETROL
+KA-53",VXIManual,"₹4,54,000
+₹4,95,000","Bellahalli, Bengaluru"
+697,2018 Maruti Swift,"79,101 KM
+2ND OWNER
+DIESEL
+KA-03",ZDI AMTAutomatic,"₹6,63,000
+₹7,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+698,2013 Maruti Swift,"1,13,498 KM
+1ST OWNER
+DIESEL
+KA-19",VDIManual,"₹4,19,000
+₹4,85,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+699,2017 Renault Kwid,"74,467 KM
+1ST OWNER
+PETROL
+KA-53",RXT 1.0Manual,"₹3,44,000
+₹3,68,000","Bellahalli, Bengaluru"
+700,2010 Hyundai i10,"73,914 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ 1.2 ATAutomatic,"₹2,96,000
+₹3,12,000","Bellahalli, Bengaluru"
+701,2017 Datsun Redi Go,"38,282 KM
+2ND OWNER
+PETROL
+KA-25",T(O) 1.0Manual,"₹2,86,600
+₹3,21,000","Hosur Road, Singasandra, Bengaluru"
+702,2015 Nissan Micra,"33,859 KM
+1ST OWNER
+PETROL
+KA-51",XL CVTAutomatic,"₹4,29,000
+₹4,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+703,2014 Maruti Alto K10,"68,307 KM
+3RD OWNER
+PETROL
+KA-42",VXIManual,"₹2,32,600
+₹2,96,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+704,2011 Hyundai i20,"1,48,625 KM
+2ND OWNER
+PETROL
+KA-51",MAGNA (O) 1.2Manual,"₹2,95,000
+₹3,09,000","Bellahalli, Bengaluru"
+705,2016 Hyundai Eon,"11,079 KM
+1ST OWNER
+PETROL
+KA-01",ERA PLUS (O)Manual,"₹3,29,000
+₹3,55,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+706,2014 Volkswagen Polo,"1,00,761 KM
+2ND OWNER
+DIESEL
+KA-53",HIGHLINE DIESELManual,"₹6,33,000
+₹6,80,000","Hosur Road, Singasandra, Bengaluru"
+707,2010 Maruti Ritz,"81,225 KM
+2ND OWNER
+PETROL
+KA-04",LXIManual,"₹2,78,000
+₹2,94,000","Bellahalli, Bengaluru"
+708,2019 Datsun Go Plus,"24,895 KM
+1ST OWNER
+PETROL
+KA-05",T(O)Manual,"₹4,79,000
+₹5,60,000","Bellahalli, Bengaluru"
+709,2012 Hyundai i20,"1,01,430 KM
+3RD OWNER
+DIESEL
+KA-02",SPORTZ 1.4 CRDIManual,"₹3,50,000
+₹3,79,000","Bellahalli, Bengaluru"
+710,2020 Maruti Swift,"13,661 KM
+2ND OWNER
+PETROL
+KA-02",VXI AMTAutomatic,"₹6,71,700
+₹7,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+711,2013 Hyundai i20,"66,085 KM
+1ST OWNER
+PETROL
+KA-01",MAGNA (O) 1.2Manual,"₹3,93,000
+₹4,44,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+712,2011 Hyundai Santro Xing,"1,00,954 KM
+1ST OWNER
+PETROL
+KA-03",GL PLUSManual,"₹2,46,000
+₹2,75,000","Bellahalli, Bengaluru"
+713,2013 Hyundai i20,"77,289 KM
+1ST OWNER
+PETROL
+KA-05",MAGNA (O) 1.2Manual,"₹3,88,000
+₹4,20,000","Horamavu Agara Road, Bengaluru"
+714,2015 Hyundai Elite i20,"47,127 KM
+2ND OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹5,93,000
+₹6,61,000","Bellahalli, Bengaluru"
+715,2012 Maruti Swift,"78,249 KM
+3RD OWNER
+PETROL
+KA-53",VXIManual,"₹4,18,000
+₹4,59,000","Bellahalli, Bengaluru"
+716,2012 Hyundai i20,"66,331 KM
+2ND OWNER
+PETROL
+KA-04",ASTA 1.2Manual,"₹4,26,000
+₹4,52,000","Bellahalli, Bengaluru"
+717,2015 Renault Kwid,"84,990 KM
+1ST OWNER
+PETROL
+KA-05",RXT 0.8Manual,"₹2,99,000
+₹3,14,000","Bellahalli, Bengaluru"
+718,2010 Hyundai i20,"92,338 KM
+1ST OWNER
+PETROL
+KA-53",ASTA 1.2Manual,"₹3,35,000
+₹3,60,000","GT World Mall, Bengaluru"
+719,2014 Hyundai Grand i10,"86,577 KM
+2ND OWNER
+PETROL
+KA-04",ASTA AT 1.2 KAPPA VTVTAutomatic,"₹4,31,000
+₹5,04,000","Bellahalli, Bengaluru"
+720,2020 Maruti IGNIS,"46,001 KM
+2ND OWNER
+PETROL
+KA-51",ZETA 1.2Manual,"₹5,20,000
+₹6,35,000","Bellahalli, Bengaluru"
+721,2016 Datsun Redi Go,"60,297 KM
+2ND OWNER
+PETROL
+KA-09",AManual,"₹2,52,000
+₹2,81,000","Horamavu Agara Road, Bengaluru"
+722,2018 Maruti Swift,"35,562 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹6,50,000
+₹6,87,000","Bellahalli, Bengaluru"
+723,2016 Hyundai Grand i10,"79,365 KM
+2ND OWNER
+DIESEL
+KA-19",SPORTZ 1.1 CRDIManual,"₹4,53,650
+₹5,04,000","Hosur Road, Singasandra, Bengaluru"
+724,2015 Maruti Swift,"56,976 KM
+2ND OWNER
+DIESEL
+KA-02",VDI ABSManual,"₹5,83,000
+₹6,30,000","Hosur Road, Singasandra, Bengaluru"
+725,2011 Maruti Swift,"96,278 KM
+2ND OWNER
+PETROL
+KA-34",VXIManual,"₹3,51,600
+₹3,60,000","Bellahalli, Bengaluru"
+726,2016 Hyundai Elite i20,"1,04,885 KM
+1ST OWNER
+PETROL
+KA-05",SPORTZ 1.2Manual,"₹5,65,000
+₹6,16,000","Horamavu Agara Road, Bengaluru"
+727,2014 Maruti Celerio,"54,848 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹3,95,000
+₹4,23,000","Hosur Road, Singasandra, Bengaluru"
+728,2018 Maruti IGNIS,"35,050 KM
+1ST OWNER
+PETROL
+KA-19",SIGMA 1.2Manual,"₹4,90,000
+₹5,08,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+729,2017 Renault Kwid,"56,637 KM
+1ST OWNER
+PETROL
+KA-08",RXT 0.8Manual,"₹3,46,000
+₹3,67,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+730,2016 Hyundai i10,"29,960 KM
+1ST OWNER
+PETROL
+KA-03",MAGNA 1.1Manual,"₹3,87,000
+₹4,66,000","Bellahalli, Bengaluru"
+731,2013 Maruti Alto 800,"59,845 KM
+1ST OWNER
+PETROL
+KA-41",LXIManual,"₹2,39,000
+₹2,83,000","Bellahalli, Bengaluru"
+732,2022 Maruti Alto,"653 KM
+1ST OWNER
+PETROL
+KA-04",VXIManual,"₹4,60,000
+₹4,72,000","Bellahalli, Bengaluru"
+733,2012 Maruti Alto 800,"73,938 KM
+1ST OWNER
+PETROL
+KA-04",LXIManual,"₹2,10,000
+₹2,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+734,2014 Hyundai i20,"41,425 KM
+1ST OWNER
+DIESEL
+KA-03",ASTA 1.4 CRDIManual,"₹5,57,000
+₹6,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+735,2011 Hyundai i20,"75,477 KM
+1ST OWNER
+PETROL
+KA-04",MAGNA (O) 1.2Manual,"₹3,47,000
+₹3,58,000","GT World Mall, Bengaluru"
+736,2011 Hyundai i10,"96,116 KM
+2ND OWNER
+PETROL
+KA-04",SPORTZ 1.2Manual,"₹2,78,000
+₹3,10,000","Bellahalli, Bengaluru"
+737,2012 Maruti Swift,"97,868 KM
+1ST OWNER
+DIESEL
+KA-34",VDIManual,"₹4,39,000
+₹4,64,000","Bellahalli, Bengaluru"
+738,2012 Maruti Swift,"23,815 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹4,70,000
+₹5,15,000","GT World Mall, Bengaluru"
+739,2015 Maruti Alto K10,"30,751 KM
+1ST OWNER
+PETROL
+KA-03",VXI PManual,"₹3,05,000
+₹3,56,000","Hosur Road, Singasandra, Bengaluru"
+740,2016 Hyundai i10,"42,444 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.1Manual,"₹3,86,000
+₹4,40,000","Bellahalli, Bengaluru"
+741,2015 Hyundai Elite i20,"1,02,118 KM
+2ND OWNER
+PETROL
+KA-02",ASTA 1.2Manual,"₹5,06,000
+₹5,47,000","Bellahalli, Bengaluru"
+742,2017 Hyundai Elite i20,"26,195 KM
+1ST OWNER
+PETROL
+KA-04",ASTA 1.2Manual,"₹6,63,000
+₹7,57,000","Horamavu Agara Road, Bengaluru"
+743,2015 Maruti Wagon R 1.0,"77,659 KM
+1ST OWNER
+PETROL
+KA-01",VXIManual,"₹3,51,000
+₹4,16,000","Bellahalli, Bengaluru"
+744,2010 Maruti Wagon R 1.0,"48,860 KM
+1ST OWNER
+PETROL
+KA-53",LXIManual,"₹2,54,750
+₹2,90,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+745,2014 Maruti Alto 800,"48,946 KM
+2ND OWNER
+PETROL
+KA-05",LXIManual,"₹2,47,000
+₹2,60,000","Bellahalli, Bengaluru"
+746,2017 Maruti Swift,"94,926 KM
+1ST OWNER
+DIESEL
+KA-05",VDI (O)Manual,"₹6,37,000
+₹7,05,000","Bellahalli, Bengaluru"
+747,2014 Maruti Swift,"71,336 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹4,37,000
+₹4,98,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+748,2014 Hyundai Eon,"46,345 KM
+2ND OWNER
+PETROL
+KA-41",SPORTZManual,"₹2,83,000
+₹3,06,000","Bellahalli, Bengaluru"
+749,2018 Maruti Swift,"46,009 KM
+1ST OWNER
+PETROL
+KA-05",VXI AMTAutomatic,"₹6,16,000
+₹7,05,000","Bellahalli, Bengaluru"
+750,2010 Maruti Wagon R 1.0,"1,31,140 KM
+1ST OWNER
+PETROL
+KA-20",VXIManual,"₹2,38,000
+₹2,92,000","Bellahalli, Bengaluru"
+751,2014 Maruti Swift,"1,13,521 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹4,50,000
+₹5,04,000","Bellahalli, Bengaluru"
+752,2013 Maruti Wagon R 1.0,"83,560 KM
+1ST OWNER
+PETROL
+KA-19",VXIManual,"₹3,16,000
+₹3,29,000","Bellahalli, Bengaluru"
+753,2014 Hyundai Grand i10,"40,546 KM
+1ST OWNER
+PETROL
+KA-53",SPORTZ 1.2 KAPPA VTVTManual,"₹4,46,000
+₹5,03,000","Bellahalli, Bengaluru"
+754,2013 Maruti Swift,"92,529 KM
+1ST OWNER
+PETROL
+KA-19",VXIManual,"₹4,15,000
+₹4,55,000","Bellahalli, Bengaluru"
+755,2015 Maruti Swift,"71,884 KM
+2ND OWNER
+DIESEL
+KA-03",ZDIManual,"₹6,36,000
+₹6,73,000","Bellahalli, Bengaluru"
+756,2018 Maruti Alto K10,"32,278 KM
+1ST OWNER
+PETROL
+KA-51",VXI (O)Manual,"₹3,68,000
+₹4,13,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+757,2010 Maruti A Star,"64,103 KM
+2ND OWNER
+PETROL
+KA-02",VXIManual,"₹2,18,000
+₹2,36,000","Hosur Road, Singasandra, Bengaluru"
+758,2012 Honda Brio,"66,434 KM
+2ND OWNER
+PETROL
+KA-05",S MTManual,"₹3,42,000
+₹3,75,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+759,2017 Maruti Swift,"47,038 KM
+1ST OWNER
+PETROL
+KA-41",VXI OManual,"₹5,94,000
+₹6,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+760,2020 Maruti S PRESSO,"21,226 KM
+1ST OWNER
+PETROL
+KA-63",VXI+Manual,"₹4,32,000
+₹4,89,000","Bellahalli, Bengaluru"
+761,2017 Hyundai i20 Active,"46,947 KM
+1ST OWNER
+PETROL
+KA-03",1.2 SXManual,"₹6,76,000
+₹7,17,000","GT World Mall, Bengaluru"
+762,2010 Hyundai i10,"46,972 KM
+2ND OWNER
+PETROL
+KA-51",SPORTZ 1.2 KAPPA2Manual,"₹2,85,000
+₹3,08,000","Horamavu Agara Road, Bengaluru"
+763,2018 Maruti Swift,"42,162 KM
+2ND OWNER
+PETROL
+KA-03",VXI AMTAutomatic,"₹6,55,000
+₹7,05,000","Bellahalli, Bengaluru"
+764,2011 Maruti Swift,"60,020 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹3,92,000
+₹4,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+765,2012 Maruti Alto 800,"88,416 KM
+2ND OWNER
+PETROL
+KA-02",LXIManual,"₹2,18,000
+₹2,50,000","Bellahalli, Bengaluru"
+766,2021 Hyundai NEW I20,"40,429 KM
+2ND OWNER
+PETROL
+KA-16",ASTA 1.0 GDI TURBO DCTAutomatic,"₹9,60,000
+₹10,11,000","Bellahalli, Bengaluru"
+767,2012 Maruti Alto 800,"48,775 KM
+2ND OWNER
+PETROL
+KA-05",LXIManual,"₹2,36,000
+₹2,60,000","GT World Mall, Bengaluru"
+768,2011 Maruti Ritz,"67,150 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹3,40,000
+₹3,59,000","Bellahalli, Bengaluru"
+769,2011 Maruti Alto K10,"25,928 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹2,43,000
+₹2,66,000","Hosur Road, Singasandra, Bengaluru"
+770,2011 Hyundai Santro Xing,"66,123 KM
+1ST OWNER
+PETROL
+KA-53",GL PLUSManual,"₹2,82,000
+₹3,00,000","Horamavu Agara Road, Bengaluru"
+771,2013 Maruti Swift,"72,984 KM
+1ST OWNER
+PETROL
+KA-53",LXIManual,"₹4,27,000
+₹4,33,000","Bellahalli, Bengaluru"
+772,2013 Maruti Swift,"69,124 KM
+1ST OWNER
+PETROL
+KA-25",VXIManual,"₹4,35,000
+₹5,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+773,2011 Maruti Alto K10,"68,730 KM
+2ND OWNER
+PETROL
+KA-53",VXIManual,"₹2,24,000
+₹2,60,000","Bellahalli, Bengaluru"
+774,2015 Maruti Swift,"59,296 KM
+1ST OWNER
+PETROL
+MP-04",VXIManual,"₹4,90,000
+₹5,00,000","Hosur Road, Singasandra, Bengaluru"
+775,2011 Maruti Alto K10,"58,552 KM
+1ST OWNER
+PETROL
+KA-05",VXIManual,"₹2,31,000
+₹2,63,000","Hosur Road, Singasandra, Bengaluru"
+776,2016 Maruti Baleno,"22,199 KM
+1ST OWNER
+PETROL
+KA-03",ZETA PETROL 1.2Manual,"₹6,45,000
+₹7,14,000","Bellahalli, Bengaluru"
+777,2012 Hyundai i20,"40,562 KM
+1ST OWNER
+DIESEL
+KA-51",ERA 1.4 CRDIManual,"₹4,45,000
+₹4,62,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+778,2016 Maruti Alto K10,"20,944 KM
+1ST OWNER
+PETROL
+KA-04",VXI AMTAutomatic,"₹3,87,000
+₹4,24,000","GT World Mall, Bengaluru"
+779,2018 Hyundai Elite i20,"65,015 KM
+1ST OWNER
+PETROL
+KA-40",ASTA 1.2 (O)Manual,"₹7,08,000
+₹7,65,000","Bellahalli, Bengaluru"
+780,2013 Maruti Swift,"69,748 KM
+2ND OWNER
+PETROL
+KA-09",VXIManual,"₹4,24,000
+₹4,84,000","Bellahalli, Bengaluru"
+781,2014 Maruti Swift,"62,029 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹4,93,000
+₹5,53,000","Bellahalli, Bengaluru"
+782,2021 Maruti Celerio,"12,364 KM
+1ST OWNER
+PETROL
+KA-04",ZXI AMTAutomatic,"₹6,12,000
+₹6,24,000","Bellahalli, Bengaluru"
+783,2010 Hyundai i20,"1,11,374 KM
+1ST OWNER
+PETROL
+KA-51",ASTA 1.2Manual,"₹3,14,000
+₹3,38,000","Bellahalli, Bengaluru"
+784,2013 Hyundai i10,"78,272 KM
+2ND OWNER
+PETROL
+KA-53",SPORTZ 1.2 ATAutomatic,"₹3,35,000
+₹3,71,000","Hosur Road, Singasandra, Bengaluru"
+785,2010 Hyundai i10,"43,679 KM
+1ST OWNER
+PETROL
+KA-51",ERA 1.1Manual,"₹2,76,000
+₹2,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+786,2012 Maruti Swift,"55,544 KM
+2ND OWNER
+DIESEL
+KA-01",VDIManual,"₹4,54,000","Bellahalli, Bengaluru"
+787,2010 Hyundai i20,"79,987 KM
+1ST OWNER
+PETROL
+KA-04",MAGNA (O) 1.2Manual,"₹3,37,000
+₹3,43,000",Sonnappanahalli
+788,2014 Renault Pulse,"83,271 KM
+1ST OWNER
+DIESEL
+KA-51",RX L DIESELManual,"₹3,36,000
+₹3,71,000","Bellahalli, Bengaluru"
+789,2012 Maruti Swift,"60,606 KM
+2ND OWNER
+PETROL
+KA-41",VXIManual,"₹4,29,000
+₹4,93,000","Bellahalli, Bengaluru"
+790,2012 Maruti Alto 800,"68,582 KM
+1ST OWNER
+PETROL
+KA-51",LXIManual,"₹2,39,000
+₹2,85,000","Bellahalli, Bengaluru"
+791,2010 Hyundai i10,"83,894 KM
+2ND OWNER
+PETROL
+KA-05",MAGNA 1.2Manual,"₹2,68,000
+₹2,84,000","Bellahalli, Bengaluru"
+792,2015 Maruti Alto 800,"79,566 KM
+2ND OWNER
+PETROL
+KA-03",LXIManual,"₹2,58,000
+₹2,97,000","Bellahalli, Bengaluru"
+793,2021 Maruti Alto,"2,368 KM
+1ST OWNER
+PETROL
+KA-05",VXI PLUSManual,"₹4,44,000
+₹4,78,000","Bellahalli, Bengaluru"
+794,2016 Maruti Swift,"41,107 KM
+1ST OWNER
+PETROL
+KA-07",VXI OManual,"₹5,27,000
+₹6,06,000","Horamavu Agara Road, Bengaluru"
+795,2011 Maruti Wagon R 1.0,"69,138 KM
+2ND OWNER
+PETROL
+KA-53",VXIManual,"₹2,84,000
+₹3,06,000","Bellahalli, Bengaluru"
+796,2015 Maruti Swift,"87,753 KM
+1ST OWNER
+DIESEL
+KA-04",VDI ABSManual,"₹5,74,000
+₹6,05,000","Horamavu Agara Road, Bengaluru"
+797,2017 Renault Kwid,"43,775 KM
+1ST OWNER
+PETROL
+KA-50",RXT 0.8Manual,"₹3,71,000
+₹3,88,000","Bellahalli, Bengaluru"
+798,2010 Maruti Wagon R 1.0,"87,820 KM
+1ST OWNER
+PETROL
+KA-05",LXIManual,"₹2,60,000
+₹2,79,000","Hosur Road, Singasandra, Bengaluru"
+799,2017 Renault Kwid,"64,024 KM
+1ST OWNER
+PETROL
+KA-02",RXT 1.0Manual,"₹3,67,000
+₹3,99,000",Sonnappanahalli
+800,2016 Maruti Swift,"72,338 KM
+1ST OWNER
+PETROL
+KA-53",VXIManual,"₹5,84,000
+₹6,36,000","Bellahalli, Bengaluru"
+801,2010 Hyundai i10,"54,998 KM
+1ST OWNER
+PETROL
+KA-51",MAGNA 1.2Manual,"₹2,83,000
+₹2,91,000","Bellahalli, Bengaluru"
+802,2014 Maruti Alto 800,"28,800 KM
+1ST OWNER
+PETROL
+KA-01",LXIManual,"₹2,87,000
+₹3,11,000","Horamavu Agara Road, Bengaluru"
+803,2010 Maruti Wagon R 1.0,"89,928 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹2,69,000
+₹2,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga..."
+804,2013 Maruti Wagon R 1.0,"58,323 KM
+1ST OWNER
+PETROL
+KA-02",VXIManual,"₹3,66,000
+₹3,96,000","Bellahalli, Bengaluru"
+805,2011 Maruti Swift,"1,02,814 KM
+1ST OWNER
+PETROL
+KA-03",VXIManual,"₹3,90,000
+₹4,17,000","Bellahalli, Bengaluru"
+806,2012 Maruti Swift,"1,06,516 KM
+1ST OWNER
+DIESEL
+KA-01",VDIManual,"₹4,48,000
+₹4,69,000","Bellahalli, Bengaluru"
+807,2010 Maruti Alto K10,"38,144 KM
+2ND OWNER
+PETROL
+KA-41",LXIManual,"₹2,23,000
+₹2,33,000","Hosur Road, Singasandra, Bengaluru"
+808,2013 Maruti Alto 800,"43,382 KM
+2ND OWNER
+PETROL
+KA-02",VXIManual,"₹2,78,000","Hosur Road, Singasandra, Bengaluru"
+809,2016 Hyundai Grand i10,"40,792 KM
+2ND OWNER
+PETROL
+KA-53",SPORTZ 1.2 KAPPA VTVTManual,"₹4,78,000","Bellahalli, Bengaluru"
+810,2010 Maruti Ritz,"86,017 KM
+2ND OWNER
+PETROL
+KA-41",VXIManual,"₹2,83,000","Hosur Road, Singasandra, Bengaluru"
+811,2016 Hyundai Grand i10,"31,749 KM
+2ND OWNER
+PETROL
+KA-03",ASTA (O) AT 1.2 KAPPA VTVTAutomatic,"₹5,35,000","Bellahalli, Bengaluru"
