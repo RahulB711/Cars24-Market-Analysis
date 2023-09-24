@@ -1,6 +1,7 @@
 
 # Cars24 Market Insights: Uncovering Trends /Opportunities
- Using the Cars24 dataset, which contains information on car models, types, pricing, ownership, and more, our goal is to evaluate and extract important insights into the used car market. We aim to understand the factors that influence automobile costs, detect industry trends, and provide Cars24 with actionable recommendations for optimizing pricing strategies and improving customer happiness.
+Our objective is to assess and extract significant insights into the used car market and for the Bangalore region using the Cars24 dataset, which contains data on car models, types, pricing, ownership, and more. We aim to understand the factors that influence automobile costs, identify market trends, and provide Cars24 useful suggestions for enhancing pricing strategies and improving customer happiness.
+.
 
  ## Key Focus Area:
 1.Pricing Analysis: Investigate the factors influencing the pricing of pre-owned cars on Cars24.Analyze the relationship between car age,  and discounted value.Identify any price variations based on car brands, models, and body types.
