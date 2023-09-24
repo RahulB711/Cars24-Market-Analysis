@@ -80,7 +80,7 @@ c:> different car ownereship
 
 ## Dashboard
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/dashboard_image/Screenshot%202023-09-24%20212937.png?raw=true)
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/dashboard_image/Screenshot%202023-09-24%20215643.png?raw=true)
 
 It gives us a better understanding of the project by providing us with summarised visiuals of significant insights discovered during the project
 
