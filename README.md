@@ -71,6 +71,7 @@ Here are the top ten most popular car models in Bangalore based on their count.
 Study the 'RTO Office' data to determine if the location of vehicle registration has any influence on pricing.
 
 Here initially we find out same car model in different rto location discount car price are different as we deep dive into it we found these can be due to :
+
 a:> different car Variants like Amanual,T(O) 1.0 Manual etc
 
 b:> different car Fuel type like Petrol,Diesel etc
@@ -84,20 +85,20 @@ c:> different car ownereship
 It gives us a better understanding of the project by providing us with summarised visiuals of significant insights discovered during the project
 
 ## Conclusion
-1. The highest discount rate is 9.5% for cars priced under 2.5 lakh, and the lowest is 6.0% for cars priced beyond 15 lakh.
+1.The highest discount rate is 9.5% for cars priced under 2.5 lakh, and the lowest is 6.0% for cars priced beyond 15 lakh.
  
-2. The Maruti Swift is the most commonly used automobile in Bangalore, with 115 in total, followed by the Hyundai Grand I10, with 98 in total, and the most popular brands are also Maruti and Hyundai.
+2.The Maruti Swift is the most commonly used automobile in Bangalore, with 115 in total, followed by the Hyundai Grand I10, with 98 in total, and the most popular brands are also Maruti and Hyundai.
 
-3. Car_Model_Configuration:
- a> The VXI variation is found in the greatest number of car_models, 155.
+3.Car_Model_Configuration:
+ a>The VXI variation is found in the greatest number of car_models, 155.
 
- b> The majority of the vehicles are Petrol-powered, with 1073 in total.
+ b>The majority of the vehicles are Petrol-powered, with 1073 in total.
 
  c> The vast majority of automobiles, approximately 74%, are manually transmitted.
 
  d> In the category of car body type most vechiles are hatchback that is around 82%
 
-4. Ownership distribution: 
+4.Ownership distribution: 
 Clearly, we can see that approximately 64% of the cars, or 810 in total, are first-ownership vehicles, 32% are second-ownership vehicles, and the remainder are third-ownership vehicles.
 
-5. We may conclude that the car with model year 2017 has the most automobiles (206), while car with  model year 2011 has the fewest cars (33).
+5.We may conclude that the car with model year 2017 has the most automobiles (206), while car with  model year 2011 has the fewest cars (33).
