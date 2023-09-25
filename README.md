@@ -1,5 +1,5 @@
 
-# Cars24 Market Insights: Uncovering Trends /Opportunities
+## Cars24 Market Insights: Uncovering Trends /Opportunities
 Our objective is to assess and extract significant insights into the used car market and for the Bangalore region using the Cars24 dataset, which contains data on car models, types, pricing, ownership, and more. We aim to understand the factors that influence automobile costs, identify market trends, and provide Cars24 useful suggestions for enhancing pricing strategies and improving customer happiness.
 .
 
