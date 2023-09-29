@@ -60,7 +60,7 @@ d:> Comparison of Car Model Counts Across Different Car Body Type
 
 ## 3: Most Popular Car Model:
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/Screenshot/Most%20popular%20car%20model.png?raw=true)
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Most%20popular%20car%20model.png?raw=true)
 
 Here are the top ten most popular car models in Bangalore based on their count.
 
