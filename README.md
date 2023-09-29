@@ -50,7 +50,7 @@ According to our analysis, the highest discounts are available for vehicles with
 
 ## 2: Car_Model_Configuration:
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/Screenshot/Configuration.png?raw=true)
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Configuration.png?raw=true)
 
 In this insight we compare distribution of car in different car configuration:
 a:> Ranking of the Top 10 Car Variants by Car Model Count
