@@ -66,7 +66,7 @@ Here are the top ten most popular car models in Bangalore based on their count.
 
 ## 4: RTO Office Impact:
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/Screenshot/RTO.png?raw=true)
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/RTO.png?raw=true)
 
 Study the 'RTO Office' data to determine if the location of vehicle registration has any influence on pricing.
 
