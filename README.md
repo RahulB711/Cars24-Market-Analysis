@@ -44,7 +44,7 @@ Step 3:Visiualizations- To present  findings in a way that is both user-friendly
 
 ## 1:Exploring Discounts by Car Price Categories
 
-![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Cars_24/Screenshot/Discount.png?raw=true)
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Discount.png?raw=true)
 
 According to our analysis, the highest discounts are available for vehicles with a categorize_car_price under 2.5 lakh, and as the price of the vehicle rises, the discount is noticeably reduced.
 
