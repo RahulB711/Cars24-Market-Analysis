@@ -21,13 +21,13 @@ Cars24 aims to enhance pricing accuracy, inventory management, and customer sati
 6.Model Year Analysis: Examine trends in car pricing based on the model year.Identify whether newer model years command higher prices.
 
 ## Data Webscrapping,Data Preprocessing and Data Cleaninig
-a> Data Webscrapping
+### a> Data Webscrapping
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/scrapping_procedure.png?raw=true)
 
 Using selenium libraries, I scraped the data from the cars24 website and initially collected 5 columns: car_model, configuration, discount+baseline pricing, location, and type for the bodytype sudan,hatchback and suv. 
 
-b> Data Preprocessing:
+### b> Data Preprocessing:
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/append.png?raw=true)
 I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
@@ -37,7 +37,7 @@ I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
 Created new columns as Categorized_car_price,car_model,car_type
 
 
-c> Data Cleaning
+### c> Data Cleaning
 
 i> Checking and fixing null values
 
@@ -135,13 +135,17 @@ Clearly, we can see that approximately 64% of the cars, or 810 in total, are fir
 
 ## Summary and Challenges Faced:
 
- i> Webscrapping from cars24 website using selenium.
+### Learning new tool
+Webscrapping from cars24 website using selenium.
 
- ii> Data was uncleaned and unorganised, but it was rectified in the proper format.
+### Data cleaning
+Data was uncleaned and unorganised, but it was rectified in the proper format.
 
- iii> Creating numerous key new columns for thorough analysis, which is critical for this project. 
+#### Dataset Formation
+Creating numerous key new columns for thorough analysis, which is critical for this project. 
 
- iv> Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing 
- visualisations.
+### Extraction and Visualisation
+Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing 
+visualisations.
 
 
