@@ -23,7 +23,32 @@ Cars24 aims to enhance pricing accuracy, inventory management, and customer sati
 ## Data Webscrapping,Data Preprocessing and Data Cleaninig
 a> Data Webscrapping
 
- ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Discount.png?raw=true)
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/scrapping_procedure.png?raw=true)
+
+Using selenium libraries, I scraped the data from the cars24 website and initially collected 5 columns: car_model, configuration, discount+baseline pricing, location, and type for the bodytype sudan,hatchback and suv. 
+
+b> Data Preprocessing:
+
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/append.png?raw=true)
+I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
+
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/New_column.png?raw=true)
+Created new columns as Categorized_car_price,car_model,car_type
+
+c> Data Cleaning
+i> Checking and fixing null values
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
+
+ ii> Checking for duplicate values
+ [App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/duplicatevlues.png?raw=true)
+
+ iii> Checking for noise values
+![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/noisevlues.png?raw=true)
+
+Finished Cars_24 Dataset
+![App Screenshot(https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Finalizeddataset.png?raw=true)
+
+
 
 
 
