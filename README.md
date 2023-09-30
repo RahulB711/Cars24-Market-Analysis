@@ -21,7 +21,8 @@ Cars24 aims to enhance pricing accuracy, inventory management, and customer sati
 6.Model Year Analysis: Examine trends in car pricing based on the model year.Identify whether newer model years command higher prices.
 
 ## Data Webscrapping,Data Preprocessing and Data Cleaninig
-### a> Data Webscrapping
+
+### a> Data Webscrapping 
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/scrapping_procedure.png?raw=true)
 
@@ -136,15 +137,19 @@ Clearly, we can see that approximately 64% of the cars, or 810 in total, are fir
 ## Summary and Challenges Faced:
 
 ### Learning new tool
+
 Webscrapping from cars24 website using selenium.
 
 ### Data cleaning
+
 Data was uncleaned and unorganised, but it was rectified in the proper format.
 
 #### Dataset Formation
+
 Creating numerous key new columns for thorough analysis, which is critical for this project. 
 
 ### Extraction and Visualisation
+
 Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing 
 visualisations.
 
