@@ -32,21 +32,27 @@ b> Data Preprocessing:
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/append.png?raw=true)
 I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
 
+
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/New_column.png?raw=true)
 Created new columns as Categorized_car_price,car_model,car_type
 
+
 c> Data Cleaning
+
 i> Checking and fixing null values
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
+ 
 
  ii> Checking for duplicate values
- [App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/duplicatevlues.png?raw=true)
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/duplicatevlues.png?raw=true)
+ 
 
  iii> Checking for noise values
 ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/noisevlues.png?raw=true)
 
+
 Finished Cars_24 Dataset
-![App Screenshot(https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Finalizeddataset.png?raw=true)
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Finalizeddataset.png?raw=true)
 
 
 
@@ -72,6 +78,7 @@ Finished Cars_24 Dataset
 ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Discount.png?raw=true)
 
 According to our analysis, the highest discounts are available for vehicles with a categorize_car_price under 2.5 lakh, and as the price of the vehicle rises, the discount is noticeably reduced.
+
 
 ## 2: Car_Model_Configuration:
 
