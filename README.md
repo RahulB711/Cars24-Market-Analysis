@@ -38,7 +38,7 @@ Created new columns as Categorized_car_price,car_model,car_type
 
 
 c> Data Cleaning
-i> Checking and fixing null values
+ i> Checking and fixing null values
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
  
@@ -49,6 +49,7 @@ i> Checking and fixing null values
 
 Finished Cars_24 Dataset
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Finalizeddataset.png?raw=true)
+In our final Cars24 dataset we have 16 columns and 1274 rows
 
 
 
@@ -130,3 +131,11 @@ It gives us a better understanding of the project by providing us with summarise
 Clearly, we can see that approximately 64% of the cars, or 810 in total, are first-ownership vehicles, 32% are second-ownership vehicles, and the remainder are third-ownership vehicles.
 
 5.We may conclude that the car with model year 2017 has the most automobiles (206), while car with  model year 2011 has the fewest cars (33).
+
+## Summary and Challenges Faced:
+i> Webscrapping from cars24 website using selenium.
+ii> Data was uncleaned and unorganised, but it was rectified in the proper format.
+iii> Creating numerous key new columns for thorough analysis, which is critical for this project.
+iv> Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing visualisations.
+
+
