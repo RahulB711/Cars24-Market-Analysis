@@ -20,14 +20,11 @@ Cars24 aims to enhance pricing accuracy, inventory management, and customer sati
 
 6.Model Year Analysis: Examine trends in car pricing based on the model year.Identify whether newer model years command higher prices.
 
-## Procedure
+## Data Webscrapping,Data Preprocessing and Data Cleaninig
+a> Data Webscrapping
 
-Step 1: Data Collection and Preparation- To analyse the dataset, first we have to scrape data from the Cars_24 website. The tool used for scraping data is Selenium, which is a Python library , ensuring it contains the relevant columns  mentioned: 'Car_Model', 'Type', 'Location', 'Car_Body_Type', 'Model_Year', 'Brand', 'Km Driven', 'Ownership', 'Fuel Type', 'RTO Office', 'Discounted_Car_Price(₹)', 'Baseline Price(₹)', 'Car_Type', 'Age_of_Car', 'km Driven_Per_Year', 'Categorize_Car_Price'.
-Clean and preprocess the data, handling missing values and outliers as needed.
- 
-Step 2: Data Analysis- Utilize My SQL queries to extract relevant insights from the data, such as calculating average prices for different car types or identifying the most popular car models.
+ ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/Discount.png?raw=true)
 
-Step 3:Visiualizations- To present  findings in a way that is both user-friendly and aesthetically pleasing creates data visualizations and dashboards using the Power BI tool
 
 
 
