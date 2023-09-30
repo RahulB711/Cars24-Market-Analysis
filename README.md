@@ -37,7 +37,8 @@ I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
 Created new columns as Categorized_car_price,car_model,car_type
 
 
-c>Data Cleaning
+c> Data Cleaning
+
 i> Checking and fixing null values
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
@@ -134,8 +135,11 @@ Clearly, we can see that approximately 64% of the cars, or 810 in total, are fir
 
 ## Summary and Challenges Faced:
 i> Webscrapping from cars24 website using selenium.
+
 ii> Data was uncleaned and unorganised, but it was rectified in the proper format.
-iii> Creating numerous key new columns for thorough analysis, which is critical for this project.
+
+iii> Creating numerous key new columns for thorough analysis, which is critical for this project. 
+
 iv> Using sql and powerbi to extract crucial insights from datasets and translate them into visually appealing visualisations.
 
 
