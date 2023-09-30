@@ -37,13 +37,13 @@ I combined the  data frames of Sudan, Hatchbacks, and SUVs into one dataset.
 Created new columns as Categorized_car_price,car_model,car_type
 
 
-c> Data Cleaning
- i> Checking and fixing null values
+c>Data Cleaning
+i> Checking and fixing null values
 
  ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/rectification-nullvalues.png?raw=true)
  
 
- ii> Checking for noise values
+ii> Checking for noise values
 ![App Screenshot](https://github.com/RahulB711/Cars24-Market-Insights-Uncovering-Trends-Opportunities/blob/main/Screenshot/noisevlues.png?raw=true)
 
 
